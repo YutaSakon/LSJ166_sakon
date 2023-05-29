@@ -1,1211 +1,601 @@
-zero		Kinesis	telicity	durative	affirmation	mode	P_affectedness	O_propert	P_animacy	P_concreteness	A_property	A_animacy	A_number	corpus	URL
-zero	renup	1	1	1	1	1	0	0	0	0	name	1	2	kompas	200402_21_a19_868644.txt
-oleh	achi.dir	1	1	0	1	1	1	omit	0	0	def	1	3	web	http://agama.forumakers.com/t209-memahami-hukum-karma-merintis-jalan-menuju-perbaikan-nasib
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	0	0	3	kompas	200403_07_a38_896198.txt
-zero	act.dir	1	0	1	1	0	0	name	0	0	0	0	3	kompas	200403_28_a50_933863.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	kompas	200403_23_a50_925063.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	1	name	1	6	web	http://andysimpen.wordpress.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	kompas	200403_05_a23_893669.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	10	kompas	200403_23_a59_925103.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	kompas	200401_17_a09_806211.txt
-zero	renup	1	1	1	1	1	0	def	0	0	name	0	1	kompas	200401_19_a71_771350.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	9	kompas	200402_13_a09_855840.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	0	1	3	kompas	200402_26_a54_875118.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	0	0	1	2	kompas	200403_29_a46_938705.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	0	2	web	http://anaszulham.blogspot.com/
-zero	act.dir	1	0	1	1	1	0	0	0	1	def	0	4	web	http://alutsista.blogspot.com/2010_04_01_archive.html
-zero	act.cyc	1	0	1	1	1	0	0	0	0	name	1	2	web	http://akhsyaifulrijal.wordpress.com/
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	0	1	web	http://anton-djakarta.blogspot.com/2008/09/kehormatan-bagi-yang-berhak.html
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200403_03_a06_879885.txt
-zero	renup	1	1	1	1	1	0	0	0	0	0	0	2	kompas	200402_05_a46_839965.txt
-oleh	renup	1	1	1	1	1	0	0	0	0	0	1	1	web	http://alipzdisiska.blogspot.com/2010_09_01_archive.html
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	kompas	200402_13_a15_855981.txt
-oleh	state	0	0	1	1	1	0	name	1	1	0	1	2	kompas	200402_14_a77_857524.txt
-oleh	act.cyc	1	0	1	1	1	0	pronoun	1	1	0	0	3	kompas	200401_28_a74_824963.txt
-zero	achi.cyc	1	1	0	0	1	0	0	0	1	0	1	3	kompas	200402_27_a50_880161.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	0	1	2	web	http://abangdani.wordpress.com/2011/03/22/penjelasan-makna-salaf-salafi-salafiyun-dan-kesalahfahaman-sebagian-orang-tentangnya/
-zero	achi.dir	1	1	0	1	1	1	0	0	0	name	0	1	kompas	200402_27_a46_880324.txt
-oleh	achi.dir	1	1	0	1	1	1	omit	0	0	0	1	2	web	http://aristodiga.blogspot.com/
-zero	renup	1	1	1	1	1	0	0	0	0	name	0	2	kompas	200402_19_a15_866400.txt
-oleh	achi.cyc	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200402_12_a59_854777.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	0	0	1	2	web	http://anggie-tugasarsip.blogspot.com/
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	name	1	6	web	http://akhawaat-scmm.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	def	0	4	web	http://andhikaelriyand.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	0	0	2	web	http://aclisblogs.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	name	1	3	kompas	200402_14_a45_857517.txt
-oleh	achi.cyc	1	1	0	1	1	0	0	0	0	name	1	3	web	http://apauditing.blogspot.com/2009/10/tugas-2-ump-2009.html
-oleh	achi.cyc	1	1	0	1	1	1	0	0	1	0	0	1	web	http://aderahmawan.blogspot.com/
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	0	1	kompas	200402_27_a45_836569.txt
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	0	1	1	web	http://adityanugroho90.blogspot.com/2010/03/pengertian-dialog-manusia-komputer.html
-oleh	achi.dir	1	1	0	1	1	0	0	0	1	def	0	7	kompas	200403_17_a28_918697.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	4	kompas	200403_01_a39_884560.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	def	1	2	kompas	200403_20_a77_923141.txt
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	name	1	1	kompas	200402_24_a59_871888.txt
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	name	0	7	kompas	200403_17_a15_918347.txt
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	name	1	2	kompas	200402_04_a06_826428.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	0	1	2	kompas	200402_26_a54_875042.txt
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	0	1	7	kompas	200403_04_a77_892723.txt
-oleh	renup	1	1	1	1	1	0	0	0	0	name	0	3	kompas	200402_26_a15_875110.txt
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	0	1	1	web	http://arifin-penelitian.blogspot.com/2010/06/upaya-meningkatkan-kemampuan-berpikir.html
-zero	act.cyc	1	0	1	1	1	0	0	0	1	name	1	1	web	http://abumuhammadibrahim2.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	5	kompas	200402_12_a15_853434.txt
-oleh	act.cyc	1	0	1	1	1	0	def	0	0	0	1	3	web	http://allaboutdhinny.wordpress.com/
-zero	renup	1	1	1	1	1	0	0	0	0	def	1	1	kompas	200403_31_a09_944188.txt
-oleh	renup	1	1	1	1	0	0	def	0	0	0	1	4	web	http://abdulzen.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	def	1	5	web	http://arifluqman85-laakuu.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	1	3	kompas	200403_23_a59_923188.txt
-oleh	renup	1	1	1	1	1	1	def	0	1	name	1	2	kompas	200403_28_a56_892121.txt
-zero	achi.dir	1	1	0	1	1	1	0	0	1	def	1	3	kompas	200403_30_a39_943992.txt
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	23	web	http://apbusinessethic.blogspot.com/2009/04/daftarkan-telaah-kasus-disini.html
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	1	2	kompas	200403_15_a50_911961.txt
-oleh	achi.cyc	1	1	0	1	1	0	0	0	0	name	1	9	kompas	200403_24_a77_931174.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	kompas	200401_19_a46_809366.txt
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200403_08_a68_896473.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	3	kompas	200401_09_a43_791219.txt
-oleh	state	0	0	1	1	1	0	0	1	1	0	1	2	web	http://arkandien.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	web	http://al-akbar.blogspot.com/
-oleh	acc.inc	1	1	1	1	1	0	0	0	0	name	1	2	web	http://antiirjai.multiply.com/journal?=20=1=%2Fjournal
-oleh	act.dir	1	0	1	1	1	0	0	0	0	def	0	2	web	http://achmadbabehsofian.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	1	name	1	1	web	http://allah-semata.org/forum/index.php?topic=473.0
-zero	act.dir	1	0	1	1	1	0	0	0	1	0	1	5	web	http://anginpunberbisik.blogspot.com/
-oleh	achi.cyc	1	1	0	1	1	0	0	0	0	0	0	1	kompas	200402_18_a50_861971.txt
-zero	acc.inc	1	1	1	1	1	0	0	0	0	name	0	2	kompas	200402_20_a38_868349.txt
-oleh	achi.dir	1	1	0	1	1	0	name	0	0	name	1	2	web	http://anis1810.wordpress.com/
-zero	acc.inc	1	1	1	1	1	0	0	0	0	0	1	2	kompas	200402_16_a09_858703.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	web	http://analisisartikelcc.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	1	kompas	200402_19_a59_866884.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	0	name	0	2	kompas	200403_13_a19_909138.txt
-zero	achi.dir	1	1	0	1	1	1	0	0	1	name	1	6	kompas	200401_30_a14_828158.txt
-oleh	act.cyc	1	0	1	1	1	0	name	0	0	name	1	1	web	http://agung9e01.multiply.com/reviews
-zero	acc.inc	1	1	1	1	1	0	0	0	0	name	0	4	kompas	200402_06_a39_841402.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	2	kompas	200402_28_a77_882435.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	def	1	8	web	http://ajikurniadi.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	Q	0	0	0	1	1	web	http://arebuuud-cerpennovel.blogspot.com/
-zero	achi.dir	1	1	0	1	1	1	0	0	0	name	0	1	kompas	200401_15_a59_803144.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	3	kompas	200402_19_a59_866590.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	0	5	kompas	200401_30_a77_828733.txt
-oleh	state	0	0	1	1	1	0	name	0	1	0	0	2	web	http://afriska.wordpress.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	7	kompas	200403_31_a18_945032.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	name	0	1	kompas	200403_30_a09_939068.txt
-zero	renup	1	1	1	1	1	0	0	0	0	name	0	6	kompas	200403_05_a77_894023.txt
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	0	0	1	kompas	200402_09_a45_795767.txt
-zero	renup	1	1	1	1	1	0	0	0	0	0	1	3	kompas	200402_29_a42_883578.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	0	name	0	3	kompas	200402_27_a39_880294.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	0	0	0	2	kompas	200402_18_a48_861979.txt
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	1	2	kompas	200403_19_a59_921469.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200401_15_a61_802242.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	0	1	web	http://advokathandal.wordpress.com/surat-pengaduan-dan-permohonan-audiensi-ke-dpr/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	0	1	web	http://apatra.blogspot.com/2007/04/komisi-yudisial-kedepan-uu-ky-mesti.html
-zero	achi.dir	1	1	0	1	1	1	omit	0	0	0	1	1	kompas	200403_17_a45_918037.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	name	1	1	web	http://ageung.multiply.com/journal
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	0	2	web	http://alaik-literatur.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	0	1	kompas	200403_17_a50_917861.txt
-oleh	act.cyc	1	0	1	1	0	0	0	0	0	def	1	3	web	http://alchaidar.blogspot.com/2008/09/aceh-bersimbah-darah-buku.html
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	web	http://apehonk.wordpress.com/
-zero	act.dir	1	0	1	1	1	0	def	0	0	0	0	2	web	http://andhikapamungkas.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	def	0	4	web	http://aguestviking.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	1	web	http://achenk-hidayat.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	0	0	1	0	1	4	web	http://aergot.wordpress.com/2011/04/17/peduli-wadah-untuk-diri-lingkungan/
-zero	act.cyc	1	0	1	1	0	0	def	0	0	0	1	4	web	http://anggateguh053.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	2	kompas	200402_26_a38_878531.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	3	kompas	200401_26_a59_820302.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200403_28_a50_937391.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	name	0	1	web	http://adhi-prasetyo.blogspot.com/2006/04/analisis-pelanggaran-konstitusi-uu.html
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	name	1	6	kompas	200403_01_a77_884686.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	web	http://aliboron.wordpress.com/2010/10/25/nasikh-dan-mansukh-dalam-al-quran-berbagai-perspektif/
-zero	acc.inc	1	1	1	1	1	0	omit	0	0	name	1	1	web	http://ardijamesputra.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	0	1	3	kompas	200403_31_a46_945087.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	0	1	web	http://antarajendeladunia.blogspot.com/2011_09_01_archive.html
-zero	achi.dir	1	1	0	1	1	1	omit	0	0	name	1	1	kompas	200403_08_a09_897624.txt
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	kompas	200402_29_a46_883730.txt
-oleh	acc.inc	1	1	1	1	1	0	def	0	0	0	1	3	web	http://afraturandang.blogspot.com/2008_10_01_archive.html
-zero	achi.dir	1	1	0	1	0	0	0	0	0	0	0	2	web	http://agustinus-etikaprofesiakuntansi.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	web	http://articlewithnoidentity.blogspot.com/2009_06_01_archive.html
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	0	3	web	http://andyfrumens.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	0	1	1	web	http://ahmadrahmawan.blogspot.com/2009_10_01_archive.html
-zero	achi.dir	1	1	0	1	1	1	0	0	0	def	1	1	kompas	200403_05_a38_893855.txt
-zero	act.dir	1	0	1	0	0	0	0	0	0	0	1	1	web	http://adinfoserpong.blogspot.com/2007_11_01_archive.html
-oleh	state	0	0	1	1	1	0	omit	0	0	0	1	4	web	http://ainuamri.blogsome.com/2009/09/13/
-oleh	renup	1	1	1	1	1	0	0	0	0	0	0	2	web	http://adhonknow.wordpress.com/
-x							0							kompas	200402_18_a46_861018.txt
-oleh	state	0	0	1	1	1	0	def	0	0	name	0	1	kompas	200403_27_a38_935785.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200403_15_a46_912124.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200403_08_a15_897556.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	0	2	kompas	200402_03_a18_833892.txt
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	0	0	1	kompas	200401_17_a15_806405.txt
-oleh	renup	1	1	1	1	1	1	1	0	1	name	0	8	kompas	200403_19_a47_921187.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	def	1	3	web	http://adicandra.wordpress.com/
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	kompas	200402_24_a77_872805.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://alman-nkri.blogspot.com/
-zero	x													web	http://alkitab.sabda.org/illustration.php?topic=140
-oleh	achi.dir	1	1	0	1	1	1	omit	0	0	name	1	3	kompas	200403_18_a77_919868.txt
-oleh	act.dir	1	0	1	1	1	1	0	0	0	def	1	7	web	http://alvinsutanto.wordpress.com/
-oleh	achi.cyc	1	1	0	1	1	0	0	0	0	0	1	1	web	http://anudanu.wordpress.com/category/olahraga/
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	0	0	2	web	http://ariessosio.blogspot.com/2010/05/modul-sosio-kls-x.html
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	10	kompas	200401_09_a09_790917.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	1	name	1	1	web	http://albento.multiply.com/journal/item/11/MANUSIA_MENURUT_PANDANGAN_GEREJA_KATOLIK
-zero	act.cyc	1	0	1	1	1	0	omit	0	0	0	1	1	kompas	200402_24_a09_873350.txt
-zero	act.dir	1	0	1	1	1	0	Q	0	0	def	1	1	web	http://ahsedapnya.blogspot.com/2011/07/cerita-panas-sex-anak-10-tahun.html
-zero	achi.cyc	1	1	0	1	1	0	Q	0	0	0	0	2	kompas	200402_10_a45_847161.txt
-zero	achi.dir	1	1	0	1	1	0	def	0	0	0	0	1	kompas	200401_19_a59_808651.txt
-oleh	act.dir	1	1	0	1	1	0	omit	0	0	def	1	4	web	http://artikel.pelajar-islam.or.id/
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	name	0	3	kompas	200402_03_a15_833817.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	0	1	kompas	200403_24_a50_924510.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	1	name	0	2	kompas	200403_29_a46_938347.txt
-zero	achi.dir	1	1	0	1	1	1	0	0	0	name	1	1	web	http://andreasharsono.blogspot.com/2007_07_01_archive.html
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	name	0	3	kompas	200402_10_a23_847386.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://alkitab.sabda.org/commentary.php?book=41=12=29
-x														web	http://ardy-zuardi.blogspot.com/
-zero	achi.dir	1	1	0	1	0	0	omit	0	0	0	0	1	kompas	200403_26_a50_932145.txt
-oleh	achi.cyc	1	1	0	1	1	0	0	0	0	name	1	1	web	http://akumassa.org/program/rangkasbitung-lebak-banten/jejak-pabrik-tahu-di-kebon-kelapa/
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	web	http://ainuttijar.blogspot.com/2009/11/inilah-isi-lengkap-rekomendasi-final.html
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	5	kompas	200403_19_a15_921380.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	1	kompas	200401_26_a77_821131.txt
-zero	achi.cyc	1	1	0	1	1	1	0	0	0	name	1	1	web	http://aa-wirabumi.abatasa.com/
-zero	acc.inc	1	1	1	1	1	0	0	0	0	name	1	1	web	http://ameblo.jp/yutakasutopo/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200402_06_a59_841319.txt
-oleh	acc.inc	1	1	1	1	1	0	0	0	0	def	1	5	web	http://annuqayah.blogspot.com/2012/02/flp-latee-ii-penuh-prestasi.html
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	8	web	http://andaners.wordpress.com/2010/11/28/pengaruh-terapi-aktifitas-kelompok-terhadap-kemampuan-komunikasi-pasien-gangguan-jiwa-di-rumah-sakit-jiwa/
-zero	state	0	0	1	1	1	0	omit	0	0	0	0	1	web	http://and1ka8.wordpress.com/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	def	1	2	web	http://adiewicaksono.wordpress.com/2008/12/28/operasi-woyla/
-oleh	renup	1	1	1	1	1	0	0	0	0	name	1	2	kompas	200401_24_a19_805137.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	web	http://ansel-boto.blogspot.com/2008/01/mentalitas-kolektif-dan-kosmologis.html
-zero	achi.dir	1	1	0	1	1	1	0	0	0	name	0	3	kompas	200402_07_a45_767427.txt
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200401_29_a77_826955.txt
-oleh	state	0	0	1	1	1	0	pronoun	0	0	0	1	1	web	http://ainuamri.wordpress.com/2007/09/30/20-kelemahan-mendasar-tuhan-yesus/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	4	web	http://abusalafy01.wordpress.com/2008/12/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	8	kompas	200403_31_a50_944876.txt
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200403_12_a15_907778.txt
-oleh	achi.dir	1	1	0	1	0	0	0	0	0	0	0	12	web	http://anieqdresser.blogspot.com/
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	0	1	web	http://akurini.blogspot.com/2004_08_15_archive.html
-zero	act.dir	1	1	0	1	1	0	0	0	0	name	1	2	kompas	200403_20_a62_922211.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	name	1	2	web	http://andrifarandana.blogspot.com/
-oleh	act.dir	1	0	1	1	1	0	def	0	0	0	1	5	web	http://argakencana.blogspot.com/2010/01/top-10-tradisi-mengerikan-di-dunia.html
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200403_23_a71_918047.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	kompas	200402_05_a18_839289.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	web	http://akademika-odiemha.blogspot.com/2009/12/perkembangan-islam-periode-klasik.html
-zero	act.dir	1	0	1	1	0	0	0	0	0	0	1	1	kompas	200403_11_a26_906124.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	1	0	1	1	kompas	200403_23_a77_925530.txt
-oleh	act.dir	1	0	1	1	1	0	def	0	0	0	1	4	web	http://ahmadrimba.blogspot.com/
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	2	kompas	200401_24_a19_805112.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	6	web	http://almakkiyat.wordpress.com/tag/al-azhar-mesir/
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	0	1	kompas	200401_26_a29_821268.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	4	web	http://adi-permana.blogspot.com/2009_05_01_archive.html
-zero	act.dir	1	0	1	1	1	0	omit	0	0	pronoun	1	1	kompas	200403_12_a75_897605.txt
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	3	web	http://alkitab.sabda.org/dictionary.php?word=Isa
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	0	4	web	http://andreasharsono.blogspot.com/2009_07_01_archive.html
-zero	renup	1	1	1	1	1	0	0	0	0	name	0	2	kompas	200402_06_a15_841205.txt
-zero	achi.dir	1	1	0	1	1	0	def	0	0	0	1	2	kompas	200402_28_a09_882144.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	0	1	4	kompas	200402_03_a46_833964.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	7	kompas	200403_13_a23_909160.txt
-oleh	state	0	0	1	1	1	0	0	0	0	0	1	3	web	http://agustian.wordpress.com/
-zero	acc.inc	1	1	1	1	1	0	0	0	0	def	1	3	kompas	200403_04_a39_892515.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	web	http://anangku.blogspot.com/2008_10_01_archive.html
-oleh	act.dir	1	0	1	1	1	0	name	0	0	0	0	2	web	http://abdiaghoenk.multiply.com/journal
-oleh	act.dir	1	0	1	1	1	0	pronoun	0	0	def	0	2	web	http://ahmadsamantho.wordpress.com/2008/06/23/paradok-globalisasi-memikirkan-kembali-arah-kebudayaan-kita/
-oleh	state	0	0	1	0	1	0	def	0	0	0	0	2	web	http://aninranisafajri.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	kompas	200402_11_a46_847122.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	3	web	http://almaidascout.wordpress.com/
-zero	achi.dir	1	1	0	1	1	0	def	0	0	def	1	4	kompas	200402_14_a15_857296.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	kompas	200402_10_a59_847232.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200403_28_a34_935621.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	def	1	2	web	http://akuzugabiza3.multiply.com/
-zero	achi.cyc	1	1	0	1	1	1	omit	1	1	name	1	4	web	http://alfiah-18.blogspot.com/2011/03/kerukunan-umat-beragama-di-indonesia.html
-zero	act.dir	1	0	1	1	1	0	def	0	0	def	0	7	kompas	200402_05_a74_839311.txt
-oleh	act.dir	1	0	1	1	1	0	def	0	0	0	1	2	web	http://adinfopuri.blogspot.com/2010_09_01_archive.html
-oleh	achi.dir	1	1	0	1	1	0	pronoun	0	0	0	1	4	web	http://abisyakir.wordpress.com/page/36/
-oleh	act.cyc	1	0	1	0	1	0	def	0	0	name	0	3	web	http://alchaidar.blogspot.com/2008/09/aceh-bersimbah-darah-buku.html
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	2	kompas	200402_13_a39_856071.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	7	kompas	200402_20_a09_867876.txt
-zero	act.dir	1	0	1	1	1	0	name	0	0	name	1	1	kompas	200402_11_a74_848425.txt
-zero	achi.dir	1	1	0	1	1	1	omit	0	0	name	1	3	kompas	200403_05_a09_893929.txt
-zero	state	0	0	1	0	1	0	0	0	0	0	0	1	kompas	200403_12_a39_908186.txt
-oleh	act.dir	1	0	1	1	0	0	0	0	0	def	0	1	kompas	200402_16_a77_859835.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	9	kompas	200403_25_a39_932458.txt
-oleh	renup	1	1	1	1	1	0	def	0	0	name	1	1	web	http://anisavitri.wordpress.com/2010/06/
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	1	11	kompas	200402_03_a15_833813.txt
-oleh	achi.dir	1	1	0	1	0	0	0	0	0	0	1	6	web	http://ahlitijani.blogspot.com/
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	0	1	2	web	http://amikaze-sasori.blogspot.com/2009/02/geisha.html
-oleh	act.dir	1	0	1	0	1	0	name	0	0	0	1	1	web	http://5evensigns.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	3	kompas	200402_19_a59_866143.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	web	http://arrahmah.com/read/2011/01/03/10532-masa-depan-pergerakan-islam-di-indonesia.html
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	kompas	200402_05_a59_840093.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	kompas	200402_21_a19_869403.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	2	web	http://anggasaputra07.blogspot.com/
-oleh	act.dir	1	0	1	1	1	0	0	0	0	def	0	2	web	http://72legalogic.wordpress.com/2009/03/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	kompas	200403_20_a45_922518.txt
-oleh	achi.dir	1	1	0	1	1	0	name	0	0	name	1	1	web	http://aguskrisnoblog.wordpress.com/page/2/
-oleh	state	0	0	1	1	1	0	0	0	0	def	1	1	web	http://arteducise.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	1	1	web	http://abu-khalil.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200403_26_a15_934048.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	4	web	http://ahmadsamantho.wordpress.com/2007/11/02/dikotomi-sunni-syiah/
-oleh	renup	1	1	1	1	1	0	0	0	0	0	0	1	kompas	200403_31_a03_944830.txt
-oleh	achi.dir	1	1	0	1	1	1	Q	0	0	pronoun	1	1	web	http://agusthuru.blogspot.com/2010_03_01_archive.html
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	0	1	1	web	http://artikelkesehatan72.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	5	kompas	200402_12_a59_855012.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	kompas	200401_30_a39_828684.txt
-zero	state	0	0	1	1	1	0	0	0	0	0	1	4	kompas	200401_17_a45_806186.txt
-oleh	act.dir	1	0	1	0	1	0	0	0	0	def	0	2	kompas	200402_26_a15_878493.txt
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	def	0	5	kompas	200403_27_a38_935703.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	0	1	web	http://artikel-ku.blogspot.com/2007_04_29_archive.html
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	3	web	http://alghuroba.wordpress.com/
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	1	2	kompas	200403_20_a59_923781.txt
-x							0							kompas	200402_11_a74_848426.txt
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	1	2	kompas	200403_19_a59_921477.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	1	def	1	1	web	http://ariskfiles.blogspot.com/
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200403_24_a45_926358.txt
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	1	4	web	http://arifinpunyablog.multiply.com/journal
-zero	acc.inc	1	1	1	1	1	0	omit	0	0	0	1	2	kompas	200402_12_a50_852034.txt
-oleh	act.dir	1	0	1	1	0	0	0	0	0	name	0	1	web	http://artikel-himas.blogspot.com/
-zero	act.cyc	1	1	0	1	1	0	0	0	0	0	1	5	web	http://a-malikmughni.blogspot.com/
-oleh	renup	1	1	1	1	1	0	0	0	0	0	1	1	web	http://aadesanjaya.blogspot.com/2011/07/contoh-proposal-skripsi.html
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	web	http://answering.wordpress.com/page/156/?pages-lis
-zero	achi.dir	1	1	0	1	1	0	0	0	0	def	1	2	kompas	200403_13_a39_909665.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	1	name	0	1	kompas	200402_09_a73_845684.txt
-zero	state	0	0	1	1	1	0	0	0	1	0	0	2	kompas	200401_17_a79_759586.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	def	0	2	web	http://ajiesaid.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	pronoun	1	1	web	http://alchaidar.blogspot.com/2008/09/manifesto-politik-negara-islam.html
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	3	kompas	200402_05_a15_839739.txt
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	0	1	2	kompas	200402_27_a45_878987.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	0	2	web	http://apauditing.blogspot.com/2009/10/tugas-2-ump-2009.html
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	0	3	kompas	200402_15_a77_858835.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	1	8	kompas	200403_13_a77_909698.txt
-zero	act.dir	1	0	1	1	1	1	0	0	1	name	0	2	kompas	200401_09_a38_791032.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	3	kompas	200403_17_a77_918633.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	0	name	0	3	kompas	200403_11_a77_906732.txt
-oleh	renup	1	1	1	0	0	0	0	0	0	0	1	2	web	http://alimudin.multiply.com/journal/item/26/SKRIPSI_ALIMUDIN_SERI_2
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	web	http://andizaslyrais28289.blogspot.com/
-oleh	act.dir	1	0	1	1	1	0	name	0	1	0	1	2	web	http://alkadir.wordpress.com/2010/07/20/dampak-negatif-obat-pien-tze-huang-obat-cina-untuk-operasi-cesar/
-zero	act.dir	1	0	1	1	0	0	omit	0	0	0	1	2	web	http://alkitab.sabda.org/illustration.php?topic=155
-zero	acc.inc	1	1	1	1	1	0	def	0	0	0	1	8	kompas	200403_03_a50_888126.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	0	1	web	http://apstrategicmanagement.blogspot.com/2009/03/tugas-2-mm-kelas-wnbbjr.html
-oleh	achi.dir	1	1	0	1	1	0	omit	0	1	0	1	1	web	http://arifinpostinginspiration.blogspot.com/
-zero	achi.dir	1	1	0	1	1	1	0	0	0	name	0	1	web	http://apspp.multiply.com/journal
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	0	1	2	web	http://ancok.staff.ugm.ac.id/h-12/kiat-menghadapi-krisis-dalam-perusahaan.html
-zero	act.dir	1	0	1	0	1	0	0	0	0	0	1	4	kompas	200403_29_a45_906302.txt
-zero	acc.inc	1	1	1	1	1	0	def	0	0	name	0	7	kompas	200402_10_a23_847386.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	web	http://alfarabi1984.wordpress.com/2010/10/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	0	2	web	http://ancok.staff.ugm.ac.id/h-21/membangun-kepercayaan-menuju-indonesia-madani-demokratis-dan-damai.html
-zero	act.dir	1	0	1	1	0	0	0	0	0	0	1	1	web	http://abangilham.wordpress.com/
-zero	renup	1	1	1	1	1	0	0	0	0	name	0	14	kompas	200401_19_a38_809407.txt
-zero	achi.dir	1	1	0	1	0	0	Q	0	0	0	0	3	kompas	200402_02_a15_832492.txt
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	name	0	2	kompas	200403_17_a09_917454.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	0	name	0	5	kompas	200402_03_a39_834017.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	0	1	web	http://alexandi88.blogspot.com/2009_03_01_archive.html
-oleh	achi.dir	1	1	0	1	1	0	Q	0	1	0	1	1	web	http://adimursalin.edublogs.org/prilaku-konsumen/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	6	web	http://annisaauliya.wordpress.com/2011/10/15/peranan-pgri-dalam-memperjuangkan-nasib-guru/
-oleh	state	0	0	1	1	1	0	def	0	0	0	1	6	kompas	200402_16_a45_836580.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	web	http://annastacy.wordpress.com/2008/02/24/jalan-pilihanku-tasawuf-part-i/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://arifinpunyablog.multiply.com/journal
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	0	1	kompas	200402_19_a38_866448.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	0	1	kompas	200402_24_a71_870789.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	web	http://anangprayoga18.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://artikel.sabda.org/book/export/html/20
-oleh	achi.dir	1	1	0	1	1	0	Q	0	0	0	1	2	web	http://adakabarapa.wordpress.com/2007/02/07/pakar-sejarah-israel-penggalian-untuk-temukan-peninggalan-yahudi/
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	name	1	1	web	http://abgnet.blogspot.com/2008_05_01_archive.html
-oleh	acc.inc	1	1	1	1	1	0	0	0	0	0	1	2	web	http://ahyarsuhendar.blogspot.com/2009/11/book-report-kewirausahaan.html
-zero	achi.dir	1	1	0	1	1	0	0	0	0	def	0	5	web	http://abrar4lesson4tutorial4ever.wordpress.com/2010/02/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	1	6	kompas	200403_03_a59_888202.txt
-oleh	renup	1	1	1	1	1	1	def	0	1	name	0	7	kompas	200403_18_a39_912348.txt
-oleh	achi.dir	1	1	0	1	0	0	0	0	0	0	1	3	web	http://alfarobyi.blogspot.com/2009/06/contoh-surat-perjanjian-sewa-menyewa.html
-x														web	http://ariefantasista10.wordpress.com/
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	0	1	2	web	http://anto-supriblogspotcom-anto.blogspot.com/
-oleh	act.cyc	1	0	1	1	1	0	0	0	1	0	1	1	web	http://adhensidiksetiadi.blogspot.com/2010_08_01_archive.html
-oleh	renup	1	1	1	1	1	1	0	0	1	0	0	3	kompas	200402_19_a73_860939.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://airhidupblog.blogspot.com/2009_08_01_archive.html
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	5	web	http://achokonyol.blogspot.com/
-zero	act.dir	1	0	1	1	1	0	0	0	0	def	0	7	web	http://abgnet.blogspot.com/2008_04_01_archive.html
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	0	1	1	kompas	200403_18_a09_919046.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	6	kompas	200403_29_a59_938254.txt
-oleh	act.dir	1	0	1	1	1	0	omit	0	0	0	1	5	kompas	200402_20_a38_867945.txt
-zero	achi.dir	1	1	0	0	0	0	0	0	0	0	0	2	web	http://akmaldarmawansyarief.blogspot.com/2009/11/pasar-tradisional-vs-pasar-modern.html
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	web	http://alchaidar.blogspot.com/2008/09/aceh-negeri-bayangan.html
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	2	kompas	200402_21_a18_870727.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://ahmadzain.wordpress.com/2006/12/08/relasi-antara-islam-dan-kebudayaan/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	0	2	web	http://alchaidar.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	0	1	7	kompas	200403_06_a50_894972.txt
-zero	acc.inc	1	1	1	1	1	0	0	0	0	0	1	3	kompas	200401_09_a15_790654.txt
-oleh	acc.inc	1	1	1	1	1	0	0	0	0	0	0	3	kompas	200403_29_a71_932261.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	def	0	3	web	http://aang69.blogspot.com/
-zero	achi.dir	1	1	0	1	0	0	0	0	0	0	0	1	web	http://ardy-zuardi.blogspot.com/
-zero	renup	1	1	1	1	1	1	0	0	0	0	1	4	web	http://afand.cybermq.com/post/tag/
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	1	1	kompas	200402_14_a15_857213.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	web	http://artikelpolitik.wordpress.com/page/2/
-oleh	act.dir	1	0	1	1	0	0	0	0	0	pronoun	1	1	web	http://ady-gaff.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	web	http://abdiredja.blogspot.com/2010_02_01_archive.html
-zero	act.dir	1	0	1	1	1	0	def	0	1	def	0	3	kompas	200403_23_a58_924545.txt
-oleh	state	0	0	1	1	1	0	omit	0	0	0	1	5	web	http://ainuamri.blogsome.com/category/anti-pluralisme/
-zero	achi.dir	1	1	0	1	1	1	0	0	0	0	0	0	kompas	200403_23_a50_925061.txt
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	1	1	web	http://almaipii.multiply.com/journal?page_start=40
-zero	act.dir	1	0	1	1	1	0	def	0	0	0	1	1	kompas	200403_04_a09_892345.txt
-oleh	renup	1	1	1	1	1	1	0	0	1	0	1	3	web	http://72legalogic.wordpress.com/2009/03/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	4	kompas	200403_29_a23_938201.txt
-zero	act.dir	1	1	0	1	1	0	0	0	0	0	1	2	kompas	200403_12_a39_908186.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	def	0	1	web	http://alexandi88.blogspot.com/2009_03_01_archive.html
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	1	2	web	http://akscenta.students.uii.ac.id/
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	1	1	web	http://2d4u.blogspot.com/2008/07/how-to-make-profit-with-malaysia.html
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	0	1	kompas	200403_03_a09_891267.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	0	1	kompas	200403_27_a19_932607.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	name	0	2	kompas	200403_24_a59_931126.txt
-oleh	renup	1	1	1	1	1	0	0	0	0	0	0	2	web	http://alisman11tik.wordpress.com/2009/12/
-oleh	achi.dir	1	1	0	1	1	0	Q	0	0	name	1	2	web	http://a3l-misipenginjilan.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	0	1	web	http://anusapati.blogdetik.com/2008/07/27/polemik-tan-malaka/
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	0	1	web	http://andips.blogdetik.com/
-zero	act.cyc	1	0	1	1	1	0	omit	0	0	Q	1	2	kompas	200402_24_a71_870789.txt
-zero	achi.dir	1	1	0	1	1	1	0	0	0	0	1	2	kompas	200402_27_a59_879983.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	pronoun	1	1	web	http://ameliaarletha.blogspot.com/
-zero	renup	1	1	1	1	1	0	0	0	0	def	0	3	kompas	200402_18_a15_864950.txt
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	name	1	2	web	http://alkitab.sabda.org/illustration.php?topic=169
-oleh	state	0	0	1	1	1	0	0	0	1	def	1	4	web	http://ameerlawan.blogspot.com/2008_08_01_archive.html
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	4	web	http://arsipleosi.blogspot.com/2009_07_01_archive.html
-oleh	act.dir	1	0	1	1	1	0	0	0	1	0	1	5	kompas	200402_16_a73_847102.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	3	kompas	200401_19_a09_769520.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://al-atsariyyah.com/kedudukan-mimpi-di-dalam-islam.html
-zero	achi.dir	1	1	0	1	0	0	Q	0	0	name	1	2	kompas	200403_06_a42_894923.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	2	kompas	200402_16_a09_858703.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	2	kompas	200402_16_a59_858971.txt
-oleh	achi.dir	1	1	0	1	0	0	0	0	0	0	0	2	kompas	200403_08_a28_897838.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	0	1	kompas	200403_07_a38_896198.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	name	1	5	kompas	200401_09_a15_790896.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	web	http://anthoine.multiply.com/journal?=380
-oleh	act.dir	1	0	1	1	1	0	0	0	0	def	0	2	kompas	200403_13_a45_907870.txt
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	1	1	kompas	200402_21_a59_870848.txt
-oleh	achi.dir	1	1	0	1	1	0	name	0	1	name	1	2	web	http://analystz.blogspot.com/2011/02/anorganik-senyawa-gol-va-part-ii.html
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	0	7	kompas	200403_19_a47_921187.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	1	name	1	1	web	http://aingkumaha.blogspot.com/2008_07_01_archive.html
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	web	http://abimanyubimantoro.blogspot.com/
-zero	acc.inc	1	1	1	1	1	0	def	0	0	name	0	4	kompas	200402_06_a59_841707.txt
-zero	achi.dir	1	1	0	1	1	0	pronoun	0	0	0	1	2	kompas	200403_06_a59_895083.txt
-oleh	achi.dir	1	1	0	1	0	0	omit	0	0	name	0	2	web	http://art-skets.blogspot.com/
-x														kompas	200402_14_a19_848486.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://alkitab.sabda.org/illustration.php?topic=3
-zero	achi.dir	1	1	0	1	1	1	0	0	0	0	0	1	kompas	200401_27_a77_823875.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	0	0	8	web	http://anangcoll.wordpress.com/
-zero	renup	1	1	1	1	1	0	0	0	0	0	0	1	web	http://apbusinessethic.blogspot.com/2009/04/kumpulkan-paper-disini.html
-oleh	act.dir	1	0	1	1	1	0	0	0	0	name	0	2	kompas	200402_27_a75_880378.txt
-x							0							kompas	200402_28_a59_882743.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	0	1	web	http://ararifianto.multiply.com/journal?=40=1=%2Fjournal
-oleh	act.dir	1	0	1	1	1	0	0	1	1	0	0	4	web	http://anton-djakarta.blogspot.com/2007/12/ibu-tien-tommy-ketjil-dan-pak-harto.html
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	name	1	2	web	http://ardiwilda.multiply.com/journal
-zero	achi.dir	1	1	0	1	1	0	def	0	0	0	1	1	kompas	200401_19_a15_809278.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	0	name	0	2	kompas	200402_04_a06_826428.txt
-zero	act.dir	1	0	1	1	0	0	0	0	0	0	1	5	kompas	200402_05_a77_840691.txt
-oleh	renup	1	1	1	1	1	0	0	0	0	0	0	4	web	http://anggisagita.blogspot.com/2009/03/perbedaan-tanaman-monokotil-dan-dikotil.html
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	web	http://anaksangatpintar.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	def	0	5	kompas	200403_20_a38_923313.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	kompas	200402_02_a09_832621.txt
-zero	renup	1	1	1	1	1	1	0	0	0	0	0	1	kompas	200402_05_a29_839799.txt
-oleh	renup	1	1	1	1	1	0	0	0	0	0	1	2	web	http://artikelcasini.blogspot.com/2010_01_01_archive.html
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	1	2	web	http://agamaislam.multiply.com/guestbook?page=2
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	web	http://abiflashcom.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	7	kompas	200401_15_a46_803642.txt
-oleh	act.cyc	1	0	1	1	1	0	name	0	0	0	0	2	web	http://arisandybrtarigan.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	1	3	web	http://adiyes.blogspot.com/2007_10_01_archive.html
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://ahmed-azzam.blogspot.com/2011_03_27_archive.html
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	0	5	kompas	200403_11_a15_906131.txt
-oleh	acc.inc	1	1	1	1	1	0	def	0	0	0	1	1	web	http://ahmadzulbahasa.blogspot.com/2010/09/tugas-makalah-semantik.html
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200403_27_a19_935394.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	1	kompas	200402_26_a18_879339.txt
-zero	achi.dir	1	1	0	1	1	1	Q	0	0	name	1	1	web	http://ardiwilda.multiply.com/journal
-zero	renup	1	1	1	1	1	1	0	0	0	name	0	9	web	http://agamaislam.multiply.com/guestbook?=6
-oleh	state	0	0	1	1	1	0	0	0	0	0	0	5	web	http://andhablog.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	0	1	4	kompas	200402_24_a29_872808.txt
-oleh	renup	1	1	1	1	1	0	0	0	0	name	0	1	kompas	200403_05_a39_893990.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	3	kompas	200403_20_a09_922891.txt
-oleh	renup	1	1	1	1	1	1	0	0	1	0	1	2	web	http://akucintanasi.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	def	11	3	web	http://alraudahalridho.tripod.com/id13.html
-zero	state	0	0	1	1	1	0	Q	0	0	name	0	1	web	http://annabelle.aumars.perso.sfr.fr/Kasus%20Brigjen%20Kusmayadi%20%20aib%20TNI%20AD.htm
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	0	1	2	kompas	200402_04_a06_826428.txt
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	0	1	2	web	http://artikeltasawuf.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	0	4	kompas	200403_29_a50_938097.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200401_10_a19_790837.txt
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	3	kompas	200401_24_a19_805112.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	0	1	kompas	200403_13_a15_909549.txt
-zero	renup	1	1	1	1	1	0	0	0	0	0	1	3	kompas	200403_28_a65_935390.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	Q	1	2	kompas	200402_19_a23_866962.txt
-oleh	achi.dir	1	1	0	1	1	0	def	0	1	0	1	1	web	http://ameerlawan.blogspot.com/2008_08_01_archive.html
-zero	achi.dir	1	1	0	1	0	0	0	0	0	def	1	1	web	http://ainuamri.wordpress.com/2011/03/04/tips-rumah-tangga-bahagia-jauhi-8-sifat-istri-yang-dibenci-suami/
-oleh	state	0	0	1	1	1	0	def	0	0	0	1	2	kompas	200402_19_a59_866945.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	2	web	http://aindra.blogspot.com/2007/10/syech-siti-jenar-dan-pemahaman-ttg.html
-oleh	act.dir	1	0	1	1	1	0	0	0	2	0	1	5	web	http://arjana-stahn.blogspot.com/2009_11_01_archive.html
-zero	act.cyc	1	0	1	1	1	0	0	0	0	0	1	2	kompas	200403_17_a45_918055.txt
-oleh	achi.dir	1	1	0	0	0	0	0	0	0	0	1	5	web	http://abusalafy01.wordpress.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	web	http://anggiguswara.wordpress.com/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	5	web	http://arasxe.wordpress.com/
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	name	0	2	web	http://11jariku.wordpress.com/
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	0	0	0	web	http://agustiyadi.blogspot.com/
-zero	renup	1	1	1	1	1	1	name	0	0	name	0	5	kompas	200401_19_a23_807594.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	kompas	200403_20_a23_922817.txt
-zero	achi.dir	1	1	0	1	1	1	0	0	0	name	0	2	kompas	200403_29_a50_936824.txt
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	name	1	2	kompas	200402_14_a77_857527.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	6	kompas	200403_12_a09_908059.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	def	1	9	kompas	200401_30_a15_828986.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	kompas	200403_07_a46_896979.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	4	kompas	200402_20_a45_867757.txt
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	web	http://albha-diy.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	web	http://apbusinessethic.blogspot.com/2009/04/kumpulkan-paper-disini.html
-zero	renup	1	1	1	1	1	1	0	0	0	def	1	2	web	http://abdianrush.wordpress.com/
-oleh	renup	1	1	1	1	1	1	0	0	1	def	0	4	kompas	200403_07_a22_895028.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	1	0	1	5	kompas	200402_24_a50_872264.txt
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	0	1	1	web	http://akuntanesia.blogspot.com/
-oleh	achi.cyc	1	1	0	1	1	0	0	0	0	0	1	3	kompas	200403_29_a39_938243.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	1	0	1	1	web	http://aminyk.blogspot.com/
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200403_13_a39_909485.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200403_18_a59_920043.txt
-zero	achi.cyc	1	1	0	1	1	1	0	0	1	name	1	1	kompas	200403_30_a39_939090.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	def	1	4	kompas	200402_15_a32_858625.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	web	http://andienbecomeamidwife.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	def	0	1	0	1	4	kompas	200403_03_a50_888126.txt
-zero	renup	1	1	1	1	1	1	0	0	1	0	1	2	kompas	200403_06_a77_895379.txt
-x														kompas	200403_30_a09_939045.txt
-zero	achi.dir	1	1	0	1	1	0	Q	0	0	0	1	3	kompas	200403_07_a32_896582.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	0	1	web	http://adikasimbar.wordpress.com/2010/07/01/model-inovasi-pendidikan/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	0	3	kompas	200403_19_a18_921149.txt
-zero	state	0	0	1	1	1	0	0	1	1	0	1	3	web	http://armanpinem.blogspot.com/
-oleh	act.dir	1	0	1	0	1	0	0	0	0	0	0	1	kompas	200403_20_a62_922205.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	0	1	kompas	200402_26_a42_867821.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	0	1	2	web	http://anastasialindawatimm.blogspot.com/2009/07/sharing-perayaan-ekaristi-di-filipina.html
-oleh	act.dir	1	0	1	1	0	0	0	0	0	name	0	4	web	http://17-08-1945.blogspot.com/2010_06_01_archive.html
-oleh	act.dir	1	0	1	1	1	0	0	0	0	def	1	7	web	http://arifinzed.wordpress.com/category/uncategorized/
-zero	achi.dir	1	1	0	1	1	0	name	0	0	0	0	2	web	http://akrabsenada.site40.net/12ipabab1.html
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	name	1	6	web	http://abdulah-alhinduantawau.blogspot.com/2011_05_29_archive.html
-zero	act.cyc	1	0	1	1	0	0	0	0	0	0	0	2	kompas	200402_19_a45_866161.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	1	0	1	1	web	http://agkarim.staff.ugm.ac.id/2007/06/25/plesetan-semantik-politik-indonesia/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	1	1	web	http://1sthans.blogspot.com/
-zero	acc.inc	1	1	1	1	1	0	0	0	0	name	0	1	kompas	200403_15_a18_910751.txt
-oleh	act.dir	1	0	1	1	1	0	def	0	0	name	0	1	kompas	200403_03_a15_887957.txt
-zero	state	0	0	1	1	1	0	def	0	0	0	1	9	kompas	200402_02_a46_832539.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	def	0	3	kompas	200403_20_a23_923174.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	web	http://afzie.wordpress.com/
-oleh	achi.cyc	1	1	0	1	1	1	0	0	1	0	1	1	kompas	200401_29_a48_824965.txt
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	0	0	2	web	http://answering.wordpress.com/2010/11/04/mengenal-sekilas-tentang-kitab-taurat-di-bible-dan-latar-belakang-penulisannya/
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	0	2	kompas	200402_12_a18_854658.txt
-zero	renup	1	1	1	1	1	0	0	0	0	0	1	2	kompas	200402_03_a48_833635.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	kompas	200402_09_a15_845502.txt
-zero	achi.dir	1	1	0	0	0	0	0	0	0	0	1	1	kompas	200402_09_a45_836633.txt
-oleh	renup	1	1	1	1	1	0	0	0	0	name	1	4	web	http://alifkorma.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	0	1	web	http://alinursahid.wordpress.com/
-x							0							kompas	200402_02_a46_832691.txt
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	0	0	3	web	http://alfonsussimalango.blogspot.com/2011_02_01_archive.html
-x							0							kompas	200403_18_a15_919903.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	kompas	200403_13_a38_909668.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	1	web	http://alyasri.blogspot.com/2009/05/biografi-singkat-pahlawan-nasional.html
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	0	1	2	web	http://abdulghafur.weblog.nl/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	0	3	web	http://agel007.wordpress.com/2010/04/03/teori-organisasi-umum-2-sap-bab-2-akademis/
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	0	0	1	kompas	200403_31_a09_945198.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	name	1	7	web	http://amandemenuud45.blogspot.com/
-oleh	state	0	0	1	1	1	0	def	0	0	name	1	5	web	http://aisyahzahrariswanda.blogspot.com/
-oleh	achi.dir	1	1	0	1	0	0	omit	0	0	Q	1	1	web	http://99.netau.net/
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	1	6	kompas	200401_15_a18_803080.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	def	0	2	web	http://achehkarbala.blogspot.com/2010_01_01_archive.html
-zero	renup	1	1	1	1	1	0	0	0	0	0	1	1	kompas	200403_17_a46_918637.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	0	1	kompas	200402_14_a38_857547.txt
-oleh	renup	1	1	1	1	1	0	0	0	0	def	1	2	kompas	200401_30_a39_828709.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	0	2	web	http://ameerlawan.blogspot.com/2008_06_01_archive.html
-zero	achi.dir	1	1	0	1	1	1	name	0	0	name	0	2	kompas	200403_12_a18_907530.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	kompas	200403_29_a28_938245.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	0	2	web	http://albatrozz.wordpress.com/2008/09/09/mekanisme-penyelesaian-sengketa-lingkungan-hidup-secara-litigasi-maupun-non-ligasi-serta-tinjauan-gugatan-class-action-dan-legal-standing-di-peradilan-indonesia/
-zero	achi.dir	1	1	0	1	1	0	0	0	1	def	1	1	web	http://allaboutff.wordpress.com/2011/02/14/bangs-love-story-valentine-special/
-zero	achi.dir	1	1	0	1	0	0	Q	0	0	0	1	1	web	http://armanittang.blogspot.com/
-zero	achi.dir	1	1	0	1	1	1	0	0	0	name	0	1	kompas	200402_20_a50_867342.txt
-oleh	achi.dir	1	1	0	1	1	0	name	0	1	name	1	3	web	http://ainuamri.wordpress.com/2008/12/26/cerita-hidayah-kisah-hidayah-kisah-perjalanan-hidup-para-mualaf-kisah-para-pencari-kebenaran-cerita-religius-kisah-relijius-cerita-rohani-kisah-spiritual-kisah-islami-cerita-islam/
-oleh	act.dir	1	0	1	1	1	0	0	0	0	name	0	1	web	http://agusramadas.multiply.com/journal
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	1	kompas	200402_21_a46_869581.txt
-zero	act.dir	1	0	1	1	1	0	0	0	1	name	0	1	kompas	200403_13_a19_909138.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	5	kompas	200402_19_a50_866106.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	4	web	http://alkitab.sabda.org/dictionary.php?word=Pentateukh
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	name	0	4	kompas	200402_21_a50_869825.txt
-zero	act.cyc	1	0	1	1	1	0	0	0	0	0	0	5	kompas	200402_14_a59_857627.txt
-zero	act.dir	1	0	1	1	1	0	omit	0	0	name	0	1	kompas	200403_11_a50_905424.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	def	1	2	kompas	200402_27_a46_880324.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	0	2	web	http://andrewopunk.blogspot.com/2010/11/teknologi-ekstruksi.html
-zero	act.dir	1	0	1	1	1	0	0	0	1	name	0	7	kompas	200401_23_a47_814563.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	kompas	200403_31_a09_944866.txt
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	1	web	http://adeirwansyah.multiply.com/reviews?=20
-zero	achi.dir	1	1	0	1	1	0	0	0	1	def	1	1	web	http://anakdel.wordpress.com/
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	0	3	kompas	200402_13_a39_856071.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	0	1	7	web	http://99ratiz.blogspot.com/2011_03_01_archive.html
-oleh	act.cyc	1	0	1	1	0	0	0	0	0	0	1	2	web	http://adheecreative.blogdetik.com/2009/06/06/tujuan-dakwah-dalam-islam/
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	0	1	kompas	200403_15_a73_906085.txt
-oleh	achi.dir	1	1	0	1	1	1	omit	0	0	0	0	4	web	http://artikelterbaru.com/hukum/apa-yang-dimaksud-dengan-hukum-2011330.html
-zero	act.dir	1	0	1	1	1	0	0	0	1	0	1	1	kompas	200403_03_a09_888062.txt
-oleh	renup	1	1	1	1	1	0	0	0	0	0	1	2	web	http://andihoo.blogspot.com/
-zero	state	0	0	1	1	1	0	0	0	0	name	0	0	web	http://abrardawud.blogdetik.com/
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	0	7	web	http://anandasulis.blogspot.com/
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	2	kompas	200403_29_a28_938245.txt
-zero	achi.dir	1	1	0	1	1	0	def	0	0	name	1	1	kompas	200403_30_a46_943833.txt
-zero	achi.dir	1	1	0	1	0	0	0	0	0	0	1	2	web	http://ajisolo.wordpress.com/2008/08/10/
-zero	acc.inc	1	0	1	1	1	0	0	0	0	0	0	2	kompas	200402_24_a77_872619.txt
-zero	renup	1	1	1	1	1	0	0	0	0	name	0	2	kompas	200402_18_a50_861939.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	2	web	http://akibmuslim.blogspot.com/
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	1	2	kompas	200403_18_a46_919946.txt
-oleh	achi.dir	1	1	0	0	0	0	0	0	0	0	1	2	web	http://arsipmoslem.wordpress.com/category/arsip-al-qalbu/
-oleh	achi.dir	1	1	0	0	0	0	Q	0	0	0	0	2	web	http://amhendropriyono.wordpress.com/
-oleh	act.dir	1	0	1	1	1	0	def	0	0	0	1	4	kompas	200403_15_a09_912137.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	0	1	web	http://annity.wordpress.com/
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	kompas	200402_16_a29_859923.txt
-oleh	renup	1	1	1	0	1	0	0	0	0	name	0	1	kompas	200402_26_a59_879288.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	1	0	1	14	web	http://72legalogic.wordpress.com/2009/03/
-oleh	act.dir	1	0	1	1	1	0	def	0	0	name	0	4	kompas	200402_02_a59_832299.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	3	web	http://abarky.blogspot.com/2010_12_01_archive.html
-oleh	act.dir	1	0	1	1	1	0	0	0	0	0	1	3	web	http://17-08-1945.blogspot.com/2010_04_01_archive.html
-zero	act.cyc	1	0	1	1	1	0	0	0	0	name	0	1	kompas	200403_03_a59_888170.txt
-zero	achi.dir	1	1	0	1	1	1	name	0	1	name	0	2	kompas	200403_12_a47_907840.txt
-oleh	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	2	web	http://agito-mangamaniac.blogspot.com/2008_10_01_archive.html
-zero	act.dir	1	0	1	1	1	0	def	0	0	name	1	1	kompas	200403_31_a77_945224.txt
-oleh	act.dir	1	0	1	1	1	0	0	0	0	name	0	2	web	http://alutsista.blogspot.com/2007_09_09_archive.html
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	1	2	web	http://achokonyol.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	def	0	1	name	1	2	web	http://altzone.blogspot.com/2005_08_01_archive.html
-zero	achi.dir	1	1	0	1	1	0	omit	0	0	name	1	1	kompas	200403_17_a09_917460.txt
-oleh	achi.dir	1	1	0	1	1	0	name	0	0	def	0	7	kompas	200402_04_a50_836207.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	name	1	11	kompas	200403_08_a28_897832.txt
-oleh	state	0	0	1	1	1	0	omit	0	0	def	1	4	kompas	200403_30_a39_943689.txt
-zero	achi.cyc	1	1	0	1	1	0	0	0	0	0	0	1	kompas	200403_30_a42_938984.txt
-oleh	achi.dir	1	1	0	1	1	0	def	0	0	0	0	2	web	http://articlewithnoidentity.blogspot.com/2009_06_01_archive.html
-zero	achi.dir	1	1	0	1	1	0	def	0	0	0	1	1	kompas	200402_08_a22_833691.txt
-zero	act.dir	1	0	1	1	1	0	pronoun	0	0	name	1	3	kompas	200402_26_a59_879033.txt
-oleh	achi.dir	1	1	0	1	1	0	pronoun	0	0	name	1	2	kompas	200402_22_a32_871004.txt
-zero	achi.dir	1	1	0	1	0	0	0	0	0	0	1	1	kompas	200403_26_a50_932148.txt
-zero	achi.dir	1	1	0	1	1	0	0	0	0	0	0	2	web	http://arimbyeno.blogspot.com/
-oleh	act.dir	1	0	1	1	0	0	0	0	0	0	0	1	web	http://ameliaday.wordpress.com/2007/11/25/sertifikasi-guru/
-oleh		1					0		0	0				web	http://aadesanjaya.blogspot.com/2010/12/kedisiplinan-belajar-siswa.html
-zero		1					0		0	0				web	http://27victory.wordpress.com/2009/12/24/akankah-indonesia-menyusul-pompeii-dan-kaum-nabi-luth/
-oleh	achi.cyc	1	1	0	1	0	0	0	0	0	Q	1	2	web	http://ajo-ajosmester4.blogspot.com/2009/10/bimbingan-konseling.html
-zero							0							kompas	200401_10_a19_791526.txt
-oleh														kompas	200402_16_a50_859123.txt
-zero	act.dir	1	0	1	1	1	0	0	0	0	def	0	4	web	http://ahmadchem.blogspot.com/
-oleh		1					0		0	0				web	http://aepthe.blogspot.com/
-oleh							0							kompas	200402_28_a28_882387.txt
-zero							0							kompas	200403_28_a46_937553.txt
-oleh														kompas	200401_30_a15_828564.txt
-zero		1					0		0	0				web	http://afiat-sehatwalafiat.blogspot.com/2009/07/misteri-tindihan.html
-oleh	renup	1	1	1	1	1	0	0	0	0	name	0	1	web	http://ajiesaid.blogspot.com/
-zero														kompas	200401_27_a77_823886.txt
-zero							0							kompas	200402_27_a15_880093.txt
-oleh														kompas	200401_24_a13_810277.txt
-zero							0							kompas	200403_31_a42_943461.txt
-zero	achi.dir	1	1	0	1	0	0	0	0	0	0	0	2	kompas	200403_15_a73_910738.txt
-zero		1					0		0	0				web	http://ariefasa.wordpress.com/
-zero		1					0		0	0				web	http://addakwah.com/2010_07_05_archive.html
-zero							0							kompas	200401_15_a29_803732.txt
-oleh							0							kompas	200403_25_a47_931849.txt
-oleh							0							kompas	200403_04_a50_892248.txt
-zero														web	http://anitawulan.wordpress.com/
-oleh							0							kompas	200402_26_a54_875112.txt
-zero														web	http://afiq-library.blogspot.com/
-zero	act.dir	1	0	1	1	1	0	0	0	0	0	1	1	web	http://agusmulyanto.blogspot.com/2008/12/pengertian-jenis-dan-ruang-lingkup.html
-zero														kompas	200402_03_a18_833915.txt
-oleh		1					0		0	0				web	http://anbu-ebov.blogspot.com/2010/04/hardware-software_16.html
-zero														kompas	200403_19_a77_921360.txt
-oleh		1					0		0	0				web	http://artikelgado2-tiyas.blogspot.com/
-zero		1					0		0	0				web	http://abu-khalil.blogspot.com/
-zero		1					0		0	0				web	http://arifprasetya1972.blogspot.com/2009_10_01_archive.html
-oleh		1					0		0	0				web	http://abdullah-syauqi.abatasa.com/post/kategori/1540/renungan-hadits
-zero		1					0		0	0				web	http://andhikaphantomhive.blogspot.com/
-oleh														web	http://anitawulan.wordpress.com/
-zero							0							kompas	200403_19_a38_921493.txt
-zero							0							kompas	200401_30_a15_828745.txt
-oleh		1					0		0	0				web	http://alkitab.sabda.org/commentary.php?book=1Tim=4=16=full
-zero														web	http://antipemurtadan.wordpress.com/2008/02/15/x-files-mengenang-kasus-tanjung-priok/
-zero														web	http://aergot.wordpress.com/2008/03/01/gaya-koboi-para-eksekutif/
-zero		1					0		0	0				web	http://artikel.sabda.org/book/export/html/16
-oleh	act.cyc	1	0	1	1	1	0	0	0	0	name	1	12	web	http://agungsudarmawan1.blogspot.com/
-zero														kompas	200403_18_a59_920140.txt
-oleh		1					0		0	0				web	http://aabisnis.blogspot.com/2010_01_01_archive.html
-oleh							0							kompas	200402_26_a54_875110.txt
-oleh		1					0		0	0				web	http://al4mien.multiply.com/journal/item/24/SYIAH_sesat_menyesatkan
-zero														kompas	200402_19_a73_866062.txt
-oleh														kompas	200403_25_a47_931849.txt
-zero														kompas	200402_29_a67_879795.txt
-oleh		1					0		0	0				web	http://argusbandung.blogspot.com/2007_07_01_archive.html
-zero							0							kompas	200402_14_a19_854683.txt
-oleh		1					0		0	0				web	http://answering.wordpress.com/2011/09/06/perjalanan-rohani-frankelprofesor-perbandingan-agama-menuju-islam/
-oleh							0							kompas	200402_28_a77_882238.txt
-zero							0							web	http://amikaze-sasori.blogspot.com/2009_02_01_archive.html
-zero														kompas	200402_06_a15_842191.txt
-oleh		1					0		0	0				web	http://abdulwahidilyas.wordpress.com/2010/08/26/a-l-tibawi/
-oleh														web	http://adinfopuri.blogspot.com/2007_11_01_archive.html
-oleh		1					0		0	0				web	http://answering.wordpress.com/2010/08/17/timoty-john-winter-mengagumi-kebesaran-islam/
-oleh							0							kompas	200403_11_a09_906340.txt
-oleh														web	http://ancahmaricah.wordpress.com/
-zero														kompas	200403_03_a15_887957.txt
-oleh		1					0		0	0				web	http://afraturandang.blogspot.com/2009_02_01_archive.html
-zero							0							kompas	200402_10_a45_840890.txt
-zero		1					0		0	0				web	http://agamaku.wordpress.com/2006/06/29/benarkah-adam-manusia-pertama/
-zero							0							kompas	200403_06_a19_892629.txt
-zero							0							kompas	200403_17_a59_918489.txt
-zero							0							kompas	200403_18_a50_919529.txt
-oleh														web	http://almaidascout.wordpress.com/
-zero							0							kompas	200401_19_a46_807837.txt
-zero														kompas	200403_25_a42_933103.txt
-zero							0							kompas	200402_06_a29_841347.txt
-zero														kompas	200402_22_a65_871597.txt
-zero														web	http://antarajendeladunia.blogspot.com/2009_05_01_archive.html
-zero														web	http://4k4sh1n.blogspot.com/
-oleh		1					0		0	0				web	http://acehdalamsejarah.blogspot.com/2011/07/pernyataan-gubernur-aceh-petunjuk-baru.html
-oleh		1					0		0	0				web	http://answering.wordpress.com/page/152/?pages-lis
-oleh														web	http://adiprakosa.blogspot.com/2008_09_01_archive.html
-oleh							0							kompas	200402_11_a50_848355.txt
-oleh		1					0		0	0				web	http://anditamaulana.blogspot.com/
-oleh	act.cyc	1	0	1	1	1	1	0	0	0	0	0	6	web	http://agungrocketsummer.blogspot.com/
-zero							0							kompas	200402_07_a19_841294.txt
-zero							0							kompas	200402_03_a59_835207.txt
-zero														web	http://aripudjiastono.blogspot.com/
-zero														kompas	200402_05_a74_839308.txt
-oleh														kompas	200402_05_a77_839776.txt
-oleh		1					0		0	0				web	http://akurasisurveiindonesia.blogspot.com/
-zero														kompas	200401_19_a45_808237.txt
-zero							0							kompas	200403_19_a46_921679.txt
-oleh	achi.dir	1	1	0	0	1	0	0	0	0	0	1	2	web	http://agungriksana.wordpress.com/category/fatwa-ulama-salaf/
-oleh							0							kompas	200402_20_a09_867875.txt
-oleh							0							kompas	200402_28_a29_882745.txt
-zero		1					0		0	0				web	http://abumuhammadibrahim2.blogspot.com/
-oleh		1					0		0	0				web	http://adbmcadangan.wordpress.com/download/
-oleh		1					1		0	0				web	http://armstrongca.blogspot.com/2009_05_01_archive.html
-zero														kompas	200401_15_a38_803224.txt
-oleh														kompas	200401_14_a74_801740.txt
-oleh														kompas	200403_23_a15_925406.txt
-oleh														kompas	200403_18_a77_920014.txt
-oleh		1					1		0	0				web	http://aners.wordpress.com/category/kajian-islam/
-zero		1					1		0	0				web	http://alumnigontor.blogspot.com/2008/04/konsep-manajemen-dalam-perspektif-al.html
-oleh		1					1		0	0				web	http://adoelsilvers.wordpress.com/
-zero														kompas	200402_03_a18_833864.txt
-zero														kompas	200403_29_a30_935891.txt
-zero														web	http://adinfodepok.blogspot.com/2007_12_01_archive.html
-zero														kompas	200402_13_a50_855677.txt
-zero	achi.dir	1	1	0	1	1	1	0	0	0	def	0	2	web	http://agustomoblog.blogspot.com/2010/10/sisa-cor-beton-kotori-jalanpemkot-tegur.html
-zero														kompas	200402_28_a46_882862.txt
-zero														web	http://armzaihamituaku.blogspot.com/2010_01_01_archive.html
-zero														kompas	200403_04_a45_892106.txt
-oleh														web	http://4m3one.wordpress.com/page/2/
-oleh														web	http://adwirman.blogstudent.mb.ipb.ac.id/
-oleh														web	http://aliaswastika.multiply.com/reviews?=20
-oleh														kompas	200403_06_a50_895049.txt
-oleh														kompas	200401_30_a40_828160.txt
-oleh		1					1		0	0				web	http://arifin-penelitian.blogspot.com/2010/06/upaya-meningkatkan-kemampuan-berpikir.html
-zero														kompas	200402_12_a29_854788.txt
-oleh														kompas	200401_24_a19_805112.txt
-oleh	state	0	0	1	1	1	1	0	0	1	0	0	1	web	http://aguskrisnoblog.wordpress.com/2011/06/17/keanekaragaman-sumber-pangan-dan-gizi-di-indonesia/
-zero														web	http://artikel.sabda.org/book/export/html/16
-oleh														web	http://abdiaghoenk.multiply.com/journal
-zero														kompas	200403_05_a45_893646.txt
-zero							0							web	http://anton-djakarta.blogspot.com/2008/04/secuil-kisah-hidup-suharto.html
-oleh														web	http://arsipgue.wordpress.com/2009/10/30/d4rk-s1m0ne-1-0-breaking-the-news-anchor/
-zero														kompas	200403_17_a45_918037.txt
-zero														kompas	200401_15_a29_803571.txt
-oleh														web	http://anthorsdvs.blogspot.com/2010/06/kuhp-perdata.html
-zero														kompas	200402_02_a09_832710.txt
-zero														kompas	200403_19_a39_921272.txt
-zero														kompas	200402_14_a39_857546.txt
-oleh														web	http://aridwis.wordpress.com/
-zero														kompas	200401_19_a71_771350.txt
-zero		1					1		0	0				web	http://aris-sukadramaasia.blogspot.com/2010_09_01_archive.html
-oleh		1					1		0	0				web	http://alatsari.wordpress.com/
-oleh														kompas	200403_05_a41_892697.txt
-zero														kompas	200402_20_a45_866162.txt
-oleh		1					1		0	0				web	http://achmadinblog.wordpress.com/
-zero														kompas	200403_29_a15_937001.txt
-zero	acc.inc	1	1	1	0	1	0	0	0	0	0	0	1	kompas	200402_10_a59_847485.txt
-zero														kompas	200402_20_a09_867840.txt
-oleh														kompas	200401_15_a23_803453.txt
-oleh														web	http://aa-broadcast.blogspot.com/
-zero		1					1		0	0				web	http://anifkauman.wordpress.com/2008/12/01/tata-cara-bersuci-dan-shalat-bagi-orang-yang-sakit/
-zero														kompas	200402_15_a58_858591.txt
-oleh														kompas	200401_07_a06_781053.txt
-zero														kompas	200402_12_a15_853425.txt
-zero		1					1		0	0				web	http://abdurrahman36.wordpress.com/skripsi-tarbiyah-syarifuddin-lumajang/
-zero														kompas	200403_26_a24_932583.txt
-zero														kompas	200402_20_a46_867880.txt
-oleh														kompas	200402_07_a29_844789.txt
-oleh		1					1		0	0				web	http://abdulmuiz1966.blogspot.com/2009/11/sekelumit-kisah-sunan-kajenar-atau-syeh.html
-zero														kompas	200403_17_a38_918278.txt
-zero														web	http://aerobtm.wordpress.com/
-oleh														kompas	200401_16_a41_804550.txt
-zero	achi.cyc	1	1	0	1	1	1	def	0	0	name	1	2	web	http://ahmadhaes.wordpress.com/2012/02/26/proyek-pembinaan-bakti-bangsa/
-zero		1					1		0	0				web	http://amiawmiaw.blogspot.com/
-oleh		1					1		0	0				web	http://abahshatilla.blogspot.com/
-oleh														web	http://alman-nkri.blogspot.com/2010/08/smartphone-samsung-galaxy-s.html
-zero														kompas	200403_13_a59_909629.txt
-zero		1					1		0	0				web	http://arif-irfan-fauzi.blogspot.com/
-oleh		1					1		0	0				web	http://addini.multiply.com/reviews
-zero														kompas	200402_11_a39_851057.txt
-oleh		1					1		0	0				web	http://anggrenitiwa.blogspot.com/
-zero		1					1		0	0				web	http://1jamuntukkebahagiaanduniaakhirat.blogspot.com/
-oleh														web	http://apriliani-niez.blogspot.com/
-zero														kompas	200401_19_a73_808887.txt
-zero														web	http://al-rasyid.blogspot.com/
-zero														web	http://apauditing.blogspot.com/2009/10/tugas-2-ump-2009.html
-zero														kompas	200402_16_a50_858735.txt
-zero	renup	1	1	1	1	1	1	0	0	0	name	0	1	kompas	200402_14_a38_857618.txt
-oleh														web	http://andikasetiadi.blogspot.com/
-zero														kompas	200403_11_a18_906580.txt
-zero		1					1		0	0				web	http://al-shia.org/html/id/books/hawa-nafs/01.htm
-zero														kompas	200402_13_a18_855922.txt
-zero														kompas	200402_09_a71_839405.txt
-oleh														kompas	200403_11_a23_906798.txt
-zero														kompas	200402_16_a15_859611.txt
-oleh														web	http://ariesaksono.wordpress.com/2011/02/24/tangkuban-perahu-pesona-misteri-sang-ratu/
-zero	acc.inc	1	0	1	1	1	1	0	0	0	0	1	2	kompas	200403_23_a23_925315.txt
-zero														kompas	200403_26_a50_934180.txt
-oleh		1					1		0	0				web	http://abdiredja.blogspot.com/2010/02/sedikit-tentang-strukturalisme-genetik.html
-zero														kompas	200403_31_a50_944876.txt
-zero														kompas	200402_29_a34_879894.txt
-zero														kompas	200403_27_a77_935922.txt
-zero														web	http://arise-energy.blogspot.com/
-zero														web	http://argumentislam.wordpress.com/
-oleh														web	http://andikescakep.blogspot.com/2008_12_01_archive.html
-zero		1					1		0	0				web	http://alifikri1.blogspot.com/2008/01/teknologi-pendidikan.html
-oleh														kompas	200401_19_a39_809579.txt
-zero														kompas	200403_19_a15_921380.txt
-zero														kompas	200403_06_a45_836654.txt
-zero														kompas	200402_14_a19_857066.txt
-oleh		1					1		0	0				web	http://aan-dz.blogspot.com/
-oleh		1					1		0	0				web	http://alchaidar.blogspot.com/2008/09/aceh-negeri-bayangan.html
-zero														kompas	200402_05_a38_839755.txt
-zero														kompas	200402_07_a77_844458.txt
-zero		1					1		0	0				web	http://arifh.blogdetik.com/setelah-sukses-di-ukiran-patung-kini-sukses-dengan-produk-mebel/
-oleh		1					1		0	0				web	http://al-shia.org/html/id/service/maqalat/019.htm
-zero		1					1		0	0				web	http://adekwidya.blogspot.com/2010_03_01_archive.html
-zero		1					1		0	0				web	http://anehlucu.com/index.php?option=com_content=article=124:john-key-preman-jakarta=49:berita-menarik=28
-zero														web	http://akhirzaman.blogdrive.com/
-zero														kompas	200402_16_a46_859619.txt
-zero														kompas	200403_08_a09_897624.txt
-oleh		1					1		0	0				web	http://arndellmage.wordpress.com/mayakasu/mayakasu-4-pendanil/
-oleh		1					1		0	0				web	http://altzone.blogspot.com/2005_08_01_archive.html
-zero														kompas	200402_03_a23_835168.txt
-zero														kompas	200402_28_a09_672962.txt
-zero														web	http://aplikasifisika.blogspot.com/
-zero														web	http://andrie07.wordpress.com/
-zero														kompas	200402_04_a77_836650.txt
-zero														kompas	200402_14_a39_857540.txt
-oleh														kompas	200402_20_a09_867877.txt
-oleh														web	http://aneukagamaceh.blogspot.com/2008_09_01_archive.html
-zero														kompas	200401_29_a47_826599.txt
-zero		1					1		0	0				web	http://1001-tokoh-dunia.blogspot.com/
-zero														web	http://alfikri.abatasa.com/post/tag/ibroh
-zero														kompas	200402_16_a71_857788.txt
-zero														web	http://anekamakalah.wordpress.com/
-oleh	achi.dir	1	1	0	1	0	1	Q	0	0	0	0	1	web	http://ahyarsuhendar.blogspot.com/2009/05/msdm-dan-development-pengembangan.html
-zero														kompas	200402_29_a43_884250.txt
-zero														kompas	200403_30_a18_939000.txt
-oleh														web	http://akuyanggiladisini.tr.gg/Lies-hidup-kita-ar-.htm
-oleh														kompas	200403_07_a32_896582.txt
-oleh		1					1		0	0				web	http://al-fatih.blogspot.com/
-oleh														web	http://akuyanggiladisini.tr.gg/INI-dunia--INI-generasi-dalam-segala-hal%2C-dari-tanda_tanda-arah-SETIAP-untuk-Kebangkitan-ar-.htm
-zero							0							web	http://adhimastra.wordpress.com/
-zero	achi.dir	1	1	0	1	1	1	omit	0	0	def	1	2	web	http://airhidupblog.blogspot.com/2011_05_01_archive.html
-zero														kompas	200402_14_a77_857524.txt
-zero		1					1		0	0				web	http://ardhyanaandmediastudies.blogspot.com/
-oleh														web	http://andibrilinunm.blogspot.com/2010_01_01_archive.html
-zero		1					1		0	0				web	http://apokalipwebzine.wordpress.com/2011/01/page/2/
-zero		1					1		0	0				web	http://antropologisosialbudaya.blogspot.com/
-oleh														kompas	200401_19_a71_808298.txt
-oleh														kompas	200402_20_a50_868242.txt
-zero														kompas	200402_03_a15_833827.txt
-zero														kompas	200403_23_a45_925165.txt
-zero		1					1		0	0				web	http://abdaz.wordpress.com/ormas-islam/muhammadiyah/
-oleh		1					1		0	0				web	http://akaldankehendak.com/?p=440
-zero														kompas	200403_31_a45_944764.txt
-zero														kompas	200402_03_a77_835313.txt
-oleh		1					1		0	0				web	http://andespe2.blogspot.com/2010/04/buku-pkn-kls-ix.html
-zero		1					1		0	0				web	http://aa-otda.blogspot.com/2009_04_01_archive.html
-zero		1					1		0	0				web	http://adamichazawi.blogspot.com/
-oleh														web	http://4frizon.wordpress.com/
-oleh	act.cyc	1	0	1	1	1	1	0	0	0	0	0	1	web	http://ahmadwitasman.blogspot.com/2011/03/wilayatul-hisbah.html
-zero														kompas	200403_25_a38_932708.txt
-zero														kompas	200401_15_a61_802160.txt
-oleh														kompas	200402_02_a68_828888.txt
-zero														kompas	200403_13_a28_910312.txt
-oleh														kompas	200402_26_a15_875115.txt
-zero		1					1		0	0				web	http://alwashliyah.wordpress.com/category/korupsi/
-oleh		1					1		0	0				web	http://adiyes.blogspot.com/2007_10_01_archive.html
-zero														kompas	200402_20_a09_868183.txt
-oleh		1					1		0	0				web	http://armingsh.blogspot.com/
-oleh		1					1		0	0				web	http://alumnisdpelita97.wordpress.com/
-oleh	acc.inc	1	1	1	1	1	1	0	0	0	def	1	3	web	http://agustocom.blogspot.com/2010_05_01_archive.html
-zero		1					1		0	0				web	http://artikel.sabda.org/book/export/html/17
-zero														kompas	200401_19_a71_808298.txt
-oleh	achi.cyc	1	1	0	1	1	1	0	0	0	name	1	1	kompas	200402_08_a42_840943.txt
-oleh														kompas	200402_20_a50_868067.txt
-zero														kompas	200401_26_a09_819696.txt
-zero														web	http://ahmadsamantho.wordpress.com/2009/05/01/revolusi-menuju-negara-ke-5-di-nusantara/
-zero														kompas	200402_02_a09_832788.txt
-oleh		1					1		0	0				web	http://aderusliana.blogspot.com/2009/04/wawancara-presiden.html
-zero														kompas	200402_26_a59_878778.txt
-zero														kompas	200402_26_a23_878621.txt
-zero														kompas	200403_17_a59_918486.txt
-oleh														kompas	200403_04_a09_892345.txt
-zero														kompas	200402_03_a39_832750.txt
-oleh														kompas	200402_11_a77_850981.txt
-zero														kompas	200401_15_a38_803556.txt
-zero														kompas	200402_04_a29_836302.txt
-zero														kompas	200403_29_a45_933978.txt
-oleh							0							web	http://anitaapriliani.blogspot.com/2011/04/bioinformatika-perkembangan-ilmu.html
-zero	act.dir	1	0	1	1	1	1	0	0	0	name	0	1	kompas	200402_26_a15_878496.txt
-zero														kompas	200401_30_a46_828446.txt
-oleh														web	http://arebuuud-cerpennovel.blogspot.com/
-zero														kompas	200402_28_a45_882120.txt
-oleh		1					1		0	0				web	http://archimdanbyantoro-ind.blogspot.com/
-oleh														web	http://ainuamri.wordpress.com/silsilah-cinta-sejati/
-oleh														kompas	200402_26_a15_875112.txt
-oleh		1					1		0	0				web	http://anggasaputra07.blogspot.com/
-oleh														web	http://aa-shalat.blogspot.com/
-oleh														web	http://alibawazir.blogspot.com/2009/03/history-jamaah2-keturunan-arab-di.html
-oleh		1					1		0	0				web	http://anton-djakarta.blogspot.com/2008_02_01_archive.html
-oleh		1					1		0	0				web	http://antiirjai.multiply.com/journal?=20=1=%2Fjournal
-oleh		1					1		0	0				web	http://82junior.blogspot.com/
-zero		1					1		0	0				web	http://ansel-boto.blogspot.com/2010_06_01_archive.html
-oleh		1					1		0	0				web	http://ariefhilmanarda.wordpress.com/2010/03/06/zakat-dan-organisasi-pengelola-zakat/
-zero														kompas	200403_24_a46_931023.txt
-zero		1					1		0	0				web	http://akatsuti-x3.blogspot.com/
-zero														kompas	200402_19_a29_866985.txt
-zero														web	http://2000n.wordpress.com/category/kebangkitan-islam/page/2/
-zero														web	http://aditrespect.blogspot.com/
-zero														kompas	200402_12_a45_848380.txt
-oleh														kompas	200403_19_a15_921384.txt
-oleh														kompas	200402_26_a59_878762.txt
-zero														web	http://anekafotoartis.blogspot.com/2011_04_01_archive.html
-oleh														web	http://3konom.blogspot.com/2009/05/pelaksanaan-wajib-belajar-9-tahun.html
-zero														web	http://antarajendeladunia.blogspot.com/2009_05_01_archive.html
-zero		1					1		0	0				web	http://aqinkpi.blogspot.com/
-zero		1					1		0	0				web	http://amriawan.blogspot.com/2009/11/hikmah-ibadah-qurban.html
-oleh														web	http://ace-informasibudaya.blogspot.com/
-oleh														web	http://adddhie.blogspot.com/
-oleh	acc.inc	1	1	1	1	1	1	0	0	0	name	1	5	web	http://ahyarsuhendar.blogspot.com/2009/11/book-report-kewirausahaan.html
-zero		1					1		0	0				web	http://anank.wordpress.com/2011/05/25/pluralisme-agama-menurut-hasyim-muzadi/
-zero														kompas	200403_03_a06_885324.txt
-zero														kompas	200402_07_a23_842438.txt
-zero														web	http://alkitab.sabda.org/resource.php?res=almanac
-zero		1					1		0	0				web	http://adhikusumaputra.multiply.com/journal
-oleh	acc.inc	1	1	1	1	1	1	0	0	0	def	0	6	kompas	200403_24_a59_931136.txt
-oleh														kompas	200401_24_a19_805121.txt
-zero														kompas	200401_07_a06_783048.txt
-oleh		1					1		0	0				web	http://answering.wordpress.com/2010/07/07/hasil-studi-militer-kasus-bunuh-diri-di-militer-israel-meningkat-drastis/
-oleh		1					1		0	0				web	http://alkahfi2.wordpress.com/category/akhlaq/
-oleh		1					1		0	0				web	http://armadayogi.wordpress.com/page/2/
-oleh		1					1		0	0				web	http://abufarismasriadi.blogspot.com/2007/12/konsep-dasar-epidemiologi-dan-timbulnya.html
-oleh		1					1		0	0				web	http://adiel87.blogspot.com/2009/11/sejarah-dan-bentuk-media-massa.html
-zero														kompas	200403_08_a71_895843.txt
-zero	achi.cyc	1	1	0	1	1	1	0	0	0	def	0	3	web	http://ainuamri.wordpress.com/2007/12/15/sejarah-perang-chechnya/
-oleh														kompas	200401_16_a74_803465.txt
-oleh														kompas	200403_04_a59_892275.txt
-zero														web	http://artikel.sabda.org/book/export/html/16
-zero		1					1		0	0				web	http://ariefmustofa.blogspot.com/
-oleh		1					1		0	0				web	http://akseptor.blogspot.com/
-zero		1					1		0	0				web	http://adhikabp.blogspot.com/
-zero														kompas	200402_12_a15_853434.txt
-oleh		1					1		0	0				web	http://alisafaat.wordpress.com/2008/04/10/gerakan-studi-hukum-kritis/
-zero														kompas	200402_18_a39_864809.txt
-zero														kompas	200402_24_a46_872760.txt
-oleh														kompas	200402_28_a45_882014.txt
-zero														kompas	200403_17_a09_918242.txt
-zero														kompas	200403_01_a45_882856.txt
-oleh		1					1		0	0				web	http://alwashliyah.wordpress.com/category/korupsi/
-zero														kompas	200403_15_a50_911113.txt
-zero														kompas	200402_09_a77_846478.txt
-zero														kompas	200402_18_a45_860815.txt
-oleh		1					1		0	0				web	http://anchorliga.wordpress.com/
-zero														kompas	200403_06_a59_895083.txt
-zero														kompas	200403_29_a71_932261.txt
-zero		1					1		0	0				web	http://1muhammadiyah.wordpress.com/
-oleh														kompas	200403_28_a70_934111.txt
-zero														kompas	200401_26_a39_821094.txt
-zero														kompas	200403_31_a59_944754.txt
-zero		1					1		0	0				web	http://alie85.blogspot.com/
-oleh														kompas	200403_18_a50_918660.txt
-zero														kompas	200402_19_a23_867185.txt
-zero		1					1		0	0				web	http://abisyakir.wordpress.com/2009/06/19/mengapa-kita-harus-menolak-sby/
-zero														kompas	200403_26_a24_932583.txt
-oleh	renup	1	1	1	1	1	1	0	0	0	0	0	1	web	http://ageestri.blogspot.com/2010/03/manajemen-strategik-pada-pt-mustika.html
-oleh		1					1		0	0				web	http://anancasa.blogspot.com/2011/02/resumu-pidato-ceramah-sambutan-dan.html
-zero														kompas	200403_01_a09_884524.txt
-zero		1					1		0	0				web	http://abisyakir.wordpress.com/2009/06/19/mengapa-kita-harus-menolak-sby/
-zero														kompas	200402_27_a39_868378.txt
-oleh		1					1		0	0				web	http://10109472.blog.unikom.ac.id/dampak-syahadat-nabi.1vg
-oleh		1					1		0	0				web	http://anak-iklab.blogspot.com/2008/04/contoh-skripsi.html
-zero														kompas	200402_18_a39_865070.txt
-oleh														web	http://afinz.blogspot.com/
-oleh														web	http://aprianatitik.wordpress.com/arsip/
-zero														kompas	200402_03_a39_834576.txt
-zero		1					1		0	0				web	http://alveesyukri.blogspot.com/2011/01/sketsa-historis-ketatanegaraan-dalam.html
-zero														kompas	200403_04_a39_891554.txt
-zero														kompas	200403_11_a39_906684.txt
-zero														kompas	200402_16_a46_859853.txt
-oleh		1					1		0	0				web	http://alka80.multiply.com/journal/item/4/ESAI_SASTRA
-oleh		1					1		0	0				web	http://alkhazim26.wordpress.com/
-oleh														kompas	200403_05_a23_894043.txt
-oleh														web	http://artikelbahasasastra.blogspot.com/
-zero														kompas	200402_02_a46_832856.txt
-oleh		1					1		0	0				web	http://ardinarifin.blogspot.com/
-oleh														web	http://akigendengbanget.wordpress.com/
-oleh		1					1		0	0				web	http://arrahmah.com/read/2011/03/22/11495-bukti-nyata-kepalsuan-madzhab-syiah.html
-oleh														web	http://al-atsariyyah.com/belajar-dari-kisah-qarun.html
-zero														web	http://alfiannurdin.wordpress.com/2010/04/17/kedaulatan-rakyat-dalam-perspektif-pancasila/
-zero														kompas	200403_26_a38_932584.txt
-zero														kompas	200402_24_a77_872805.txt
-zero														kompas	200403_18_a38_919994.txt
-oleh														web	http://affandi91.wordpress.com/
-zero														kompas	200402_06_a59_841178.txt
-oleh		1					1		0	0				web	http://andi.wordpress.com/2005/10/31/ruqyah-syirik/
-zero							0							web	http://adhillahwullan.blogspot.com/
-oleh	state	0	0	1	1	1	0	0	0	0	0	1	4	web	http://ainspirasi.wordpress.com/quran/
-zero														kompas	200403_04_a45_892103.txt
-zero		1					1		0	0				web	http://artikel.sabda.org/book/export/html/17
-zero														kompas	200403_01_a45_882849.txt
-zero														kompas	200403_25_a50_932380.txt
-zero														kompas	200403_11_a38_907028.txt
-zero														kompas	200402_19_a29_866784.txt
-oleh		1					1		0	0				web	http://anhar07.wordpress.com/
-oleh														web	http://artikelsifaks.blogspot.com/
-zero														kompas	200403_13_a23_909883.txt
-oleh		1					1		0	0				web	http://aadesanjaya.blogspot.com/2010/11/kode-etik-profesi-keguruan.html
-zero														kompas	200402_04_a15_836036.txt
-oleh														web	http://akhiandri19.abatasa.com/post/kategori/272/agama
-oleh														web	http://alterusans.blogspot.com/
-oleh														web	http://anakranto.wordpress.com/2010/07/21/10-pemain-sepak-bola-terkaya-di-dunia/
-oleh														web	http://ana-ekonomi.blogspot.com/2010/05/hukum-perdagangan-internasional.html
-zero	achi.dir	1	1	0	1	1	1	def	0	0	name	1	12	kompas	200403_03_a28_891192.txt
-zero														kompas	200403_31_a59_945174.txt
-zero		1					1		0	0				web	http://alutsista.blogspot.com/2008_04_06_archive.html
-oleh		1					1		0	0				web	http://amriawan.blogspot.com/2008/12/penerapan-metode-resitasi-terhadap.html
-zero														web	http://15meh.blogspot.com/2010/06/akibat-fatal-dari-suka-mereka-aksi-ml.html
-oleh														kompas	200401_07_a06_781053.txt
-zero														kompas	200403_15_a28_912251.txt
-oleh														web	http://al-imamu-imammalik.blogspot.com/
-oleh														web	http://agustomoblog.blogspot.com/2010/10/sisa-cor-beton-kotori-jalanpemkot-tegur.html
-zero		1					1		0	0				web	http://amier-menulislage.blogspot.com/2010/05/akhlak-etika-moral-tinjauan-definitive.html
-oleh														web	http://anggaz.wordpress.com/2010/09/04/ilmu-leak-desti/
-zero														kompas	200402_06_a15_841585.txt
-oleh														web	http://artikel.sabda.org/book/export/html/10
-oleh		1					1		0	0				web	http://ane2006.blogspot.com/
-zero														web	http://akuhanif.multiply.com/journal
-zero														kompas	200402_07_a15_844159.txt
-zero														kompas	200403_06_a77_895379.txt
-oleh														kompas	200403_29_a73_937249.txt
-zero		1					1		0	0				web	http://ansel-boto.blogspot.com/2010_02_01_archive.html
-zero		1					1		0	0				web	http://andyfrumens.blogspot.com/
-oleh														web	http://alyssamatahariku.blogspot.com/
-oleh														web	http://anaksangatpintar.blogspot.com/
-zero														kompas	200402_19_a59_866589.txt
-zero														kompas	200402_08_a65_816841.txt
-oleh														web	http://alfianaziz.blogspot.com/
-oleh														kompas	200403_15_a77_912216.txt
-zero														kompas	200403_30_a18_943700.txt
-oleh														web	http://ahmadzaenan.wordpress.com/2010/08/22/ptk-sd-agama-islam/
-oleh		1					1		0	0				web	http://a67532.wordpress.com/
-zero														web	http://alkitab.sabda.org/illustration.php?topic=11
-zero														kompas	200403_24_a15_931437.txt
-oleh		1					1		0	0				web	http://anasluthfi.blogspot.com/
-oleh														web	http://adji.wordpress.com/category/doktrin-zionisme-ideologi-pancasila/
-zero		1					1		0	0				web	http://agamaislam.multiply.com/guestbook?=4
-zero														kompas	200403_08_a59_896938.txt
-oleh		1					1		0	0				web	http://arsip.jurnalparlemen.com/sidang/komisi-x/raker-komisi-x-dengan-mendiknas.html
-zero														web	http://andashop.multiply.com/
-oleh		1					1		0	0				web	http://alfiasyura.blogspot.com/
-oleh														web	http://airmengalirsampaijauh.blogspot.com/
-oleh		1					1		0	0				web	http://aocyouth.wordpress.com/
-oleh														web	http://akhirudins.blogspot.com/
-oleh														kompas	200403_19_a09_921199.txt
-zero														kompas	200403_06_a59_895345.txt
-oleh		1					1		0	0				web	http://21qwe.multiply.com/journal?=20
-oleh														web	http://al-atsariyyah.com/adab-berpakain-dan-berhias.html
-oleh		1					1		0	0				web	http://andrimasri.blogspot.com/
-zero														web	http://arishimahaniko.blogspot.com/
-oleh		1					1		0	0				web	http://arif-irfan-fauzi.blogspot.com/
-zero														kompas	200403_12_a45_907876.txt
-zero														kompas	200402_15_a22_857306.txt
-zero		1					1		0	0				web	http://abdahdelphi.blogspot.com/2010_10_01_archive.html
-oleh														kompas	200403_26_a15_934097.txt
-zero														web	http://abu-azkiya.blogspot.com/2009_09_01_archive.html
-zero														kompas	200402_19_a15_866400.txt
-zero														kompas	200402_21_a15_869829.txt
-oleh														web	http://alunanhidup-herning.blogspot.com/
-oleh		1					1		0	0				web	http://adisubiyanto.multiply.com/journal
-zero														kompas	200401_19_a59_808651.txt
-zero	achi.dir	1	1	0	1	1	1	omit	1	1	name	1	7	kompas	200402_13_a45_856152.txt
-zero														kompas	200403_05_a75_892420.txt
-oleh		1					1		0	0				web	http://agamaislam.multiply.com/guestbook?=3
-oleh		1					1		0	0				web	http://analisaekonomipolitik.blogspot.com/2009/04/kemiskinan-pengangguran-dan-pertanian.html
-zero														kompas	200403_15_a18_910749.txt
-zero	act.dir	1	0	1	1	0	1	omit	0	0	0	1	1	kompas	200402_06_a15_841183.txt
-zero														kompas	200402_03_a59_835180.txt
-oleh														web	http://artikellinux.blogspot.com/
-oleh		1					1		0	0				web	http://26-dyash.blogspot.com/
-oleh		1					1		0	0				web	http://antondriyanto.blogspot.com/
-oleh	achi.dir	1	1	0	1	1	0	0	0	1	name	0	1	web	http://agusthuru.blogspot.com/2010/03/profil-dekenat-dan-paroki-paroki.html
-zero		1					1		0	0				web	http://911medical.blogspot.com/2010/05/makalah-tentang-masa-remaja.html
-zero														kompas	200402_12_a29_854959.txt
-zero														kompas	200403_23_a39_924562.txt
-zero														kompas	200401_09_a43_791101.txt
-zero														kompas	200403_19_a39_920252.txt
-oleh		1					1		0	0				web	http://alchaidar.blogspot.com/2008/09/aceh-negeri-bayangan.html
-oleh		1					1		0	0				web	http://abdaz.wordpress.com/ormas-islam/muhammadiyah/
-zero														kompas	200402_14_a77_857520.txt
-zero														kompas	200402_19_a59_866143.txt
-oleh		1					1		0	0				web	http://aditiaa.blogspot.com/2009/03/memudarnya-kesadaran-bela-negara-di-era.html
-zero		1					1		0	0				web	http://666akuma.blogspot.com/
-zero														web	http://alveoli.wordpress.com/
-oleh		1					1		0	0				web	http://a3l-misipenginjilan.blogspot.com/
-zero														kompas	200403_06_a09_895106.txt
-zero														kompas	200401_19_a15_808631.txt
-oleh														kompas	200402_18_a59_865005.txt
-oleh														web	http://andriachi.wordpress.com/
-oleh		1					1		0	0				web	http://adinfopuri.blogspot.com/2007_11_01_archive.html
-zero														kompas	200402_09_a29_846357.txt
-oleh														web	http://abdulwahidilyas.wordpress.com/
-oleh														web	http://analisispublicrelations.wordpress.com/
-zero														kompas	200402_27_a45_836569.txt
-zero		1					1		0	0				web	http://anthoex.multiply.com/journal
-zero		1					1		0	0				web	http://abdiplizz.wordpress.com/page/2/
-zero														kompas	200402_04_a50_835959.txt
-oleh		1					1		0	0				web	http://almayfie.blogspot.com/
-zero														kompas	200401_09_a42_791084.txt
-oleh														kompas	200402_24_a45_872409.txt
-zero														kompas	200402_06_a15_841194.txt
-zero														kompas	200403_26_a15_934031.txt
-oleh														kompas	200403_19_a15_921380.txt
-oleh														kompas	200403_01_a09_884525.txt
-zero														kompas	200403_06_a19_894359.txt
-zero		1					1		0	0				web	http://abisyakir.wordpress.com/2009/05/28/antara-pks-dan-ikhwanul-muslimin/
-zero														web	http://aripudjiastono.blogspot.com/
-oleh		1					1		0	0				web	http://ardi-makalah.blogspot.com/
-zero														kompas	200403_18_a77_917253.txt
-zero		1					1		0	0				web	http://anton-djakarta.blogspot.com/2007_10_01_archive.html
-oleh														kompas	200402_13_a77_856137.txt
-oleh	act.dir	1	0	1	1	1	1	0	0	0	0	1	2	web	http://agenjuditaruhanbola.com/
-oleh														web	http://aimbaruddin.blogspot.com/
-zero														kompas	200402_07_a77_844454.txt
-zero							0							web	http://acikahananelyasya.wordpress.com/
-oleh		1					1		0	0				web	http://amhendropriyono.wordpress.com/category/pemikiran/
-zero		1					1		0	0				web	http://aa-syariah.blogspot.com/
-zero		1					1		0	0				web	http://anggipay.blogspot.com/
-zero														web	http://arsipiptek.blogspot.com/2011/01/pt-pindad-dinamika-inovasi-teknologi.html
-zero														kompas	200402_13_a41_855693.txt
-oleh	achi.dir	1	1	0	1	1	1	omit	0	0	0	1	1	web	http://ainuamri.blogsome.com/2010/07/
-oleh														web	http://alkitab.sabda.org/commentary.php?book=28=1=5
-zero														web	http://agamadaniptek.wordpress.com/
-zero		1					1		0	0				web	http://artikel.sabda.org/book/export/html/21
-zero														web	http://afifnugraha.wordpress.com/page/2/
-zero														kompas	200403_23_a09_925232.txt
-zero														web	http://airhidupblog.blogspot.com/2011_03_01_archive.html
-oleh	achi.dir	1	1	0	1	1	omit	0	0	0	name	1	1	web	http://ahmadrajafi.wordpress.com/category/materi-masail-fiqhiyyah/
-zero														kompas	200402_12_a29_854788.txt
-oleh		1					1		0	0				web	http://abdiplizz.wordpress.com/page/2/
-zero														kompas	200403_28_a32_926416.txt
-zero	act.dir	1	0	1	1	1	1	0	0	1	0	1	1	kompas	200401_10_a19_790994.txt
-oleh		1					1		0	0				web	http://afraturandang.blogspot.com/2009_02_01_archive.html
-oleh		1					1		0	0				web	http://anjrah79.multiply.com/journal
-zero														kompas	200403_18_a46_918116.txt
-oleh		1					1		0	0				web	http://abiwin.wordpress.com/2009/01/page/3/
-zero														kompas	200402_09_a45_795767.txt
-zero														kompas	200402_08_a43_846054.txt
-zero														kompas	200403_29_a18_937685.txt
-oleh	achi.dir	1	1	0	1	1	0	0	0	0	name	0	5	kompas	200402_07_a19_842322.txt
-oleh		1					1		0	0				web	http://ariefantasista10.wordpress.com/
-oleh														kompas	200401_30_a40_828149.txt
-zero														kompas	200403_05_a77_894023.txt
-oleh														web	http://alkitab.sabda.org/commentary.php?book=66=13=5
-oleh														web	http://aaamyhobby.wordpress.com/2009/10/
-zero		1					1		0	0				web	http://analisapemilukada.blogspot.com/
-zero														web	http://adddhie.blogspot.com/
-zero														kompas	200401_19_a29_809525.txt
-oleh		1					1		0	0				web	http://abisyakir.wordpress.com/2010/01/02/gerakan-pemujaan-gus-dur/
-zero	achi.dir	1	1	0	1	1	1	0	0	0	0	1	2	web	http://ainuamri.blogsome.com/category/anti-tasawuf-dan-sufi/
-zero														kompas	200403_03_a15_891505.txt
-zero														web	http://afand.cybermq.com/post/tag/
-zero														kompas	200401_31_a19_828654.txt
-zero														kompas	200402_20_a09_867738.txt
-oleh														kompas	200402_15_a65_858662.txt
-oleh		1					1		0	0				web	http://artikel.sabda.org/book/export/html/16
-oleh														kompas	200403_20_a19_922501.txt
-zero														kompas	200402_13_a77_856134.txt
-oleh														web	http://adekurniawantnreg.blogspot.com/2009_04_01_archive.html
-zero														web	http://anwarholil.blogspot.com/2008_04_01_archive.html
-oleh		1					1		0	0				web	http://alhabaib.blogspot.com/2010_07_01_archive.html
-oleh	act.dir	1	0	1	1	1	1	def	0	0	0	0	1	kompas	200403_15_a24_910011.txt
-oleh														kompas	200403_15_a75_911049.txt
-oleh														kompas	200401_15_a23_803453.txt
-oleh														web	http://1412love4869.wordpress.com/page/6/
-zero		1					1		0	0				web	http://amnesty.org/en/library/asset/ASA21/006/2004/en/e52c34a5-d62b-11dd-ab95-a13b602c0642/asa210062004in.html
-zero														kompas	200403_21_a62_924318.txt
-zero		1					1		0	0				web	http://amalmadina.blogspot.com/2007_09_01_archive.html
-zero														web	http://akipeffendy.blogspot.com/2009/07/metafora-dalam-puisi.html
-oleh		1					1		0	0				web	http://amiennurdin.blogspot.com/
-oleh														web	http://ariestacdma.wordpress.com/2007/09/28/perkembangan-teknologi-komunikasi/
-oleh														kompas	200403_20_a15_921306.txt
-zero														kompas	200403_17_a28_919003.txt
-zero														kompas	200403_30_a18_943700.txt
-oleh	achi.dir	1	1	0	1	1	1	0	0	0	0	1	4	web	http://ainuamri.wordpress.com/kumpulan-kisah-mualaf/
-oleh														web	http://allamandasyifa.wordpress.com/
-oleh														kompas	200403_17_a09_918423.txt
-zero														kompas	200402_11_a59_850953.txt
-oleh		1					1		0	0				web	http://akuindonesiana.wordpress.com/category/taat-hukum/
-oleh														web	http://anangku.blogspot.com/2008_10_01_archive.html
-zero														web	http://aa-wirabumi.abatasa.com/
-zero	act.dir	1	0	1	1	1	1	0	0	0	name	0	1	kompas	200403_31_a77_945226.txt
-zero		1					1		0	0				web	http://aqinkpi.blogspot.com/
-oleh							0							web	http://alchaidar.blogspot.com/2008/12/ditabuhnya-genderang-perang-semesta.html
-zero														kompas	200401_17_a09_806212.txt
-oleh														kompas	200402_22_a77_871667.txt
-oleh		1					1		0	0				web	http://artikel-ilmukomputer.blogspot.com/
-zero														kompas	200402_11_a29_851260.txt
-oleh														kompas	200402_07_a09_844344.txt
-zero														kompas	200403_26_a15_934845.txt
-oleh														kompas	200403_31_a23_944495.txt
-zero														kompas	200403_12_a39_908193.txt
-oleh	act.dir	1	0	1	0	1	1	def	0	0	0	1	3	web	http://agorsiloku.wordpress.com/2006/09/19/beberapa-kesalahan-fatal-buku-harun-yahya/
-zero	achi.dir	1	1	0	1	0	1	def	0	0	0	1	1	web	http://ahza.multiply.com/journal/item/13/SEBAB-SEBAB_TERJADINYA_PERBEDAAN_PENDAPAT_DALAM_HUKUM_ISLAM
-oleh														kompas	200403_27_a19_935374.txt
-zero														web	http://abumie.wordpress.com/2007/12/05/ayat-ayat-cinta/
-zero														kompas	200402_24_a45_869923.txt
-zero														web	http://arsitekturindis.wordpress.com/2004/07/
-oleh														web	http://anitamarindra.blogspot.com/2010_04_01_archive.html
-oleh		1					1		0	0				web	http://abimanyubimantoro.blogspot.com/
-oleh		1					1		0	0				web	http://andyfrumens.blogspot.com/
-zero		1					1		0	0				web	http://almareza-almareza.blogspot.com/
-zero														kompas	200402_02_a77_832675.txt
-oleh		1					1		0	0				web	http://artikelbuddhist.com/2011/05/meditasi-vipassana-metode-mahasi-sayadaw.html
-oleh		1					1		0	0				web	http://alamsmk.blogspot.com/2009_01_01_archive.html
-zero														kompas	200402_27_a15_880091.txt
-oleh														web	http://1412love4869.wordpress.com/page/7/
-oleh														kompas	200403_18_a15_919908.txt
-zero														web	http://adesaputra1.wordpress.com/2010/01/19/cara2-perbaiki-boot-xp/
-zero														kompas	200403_30_a50_938927.txt
-zero														web	http://answering-islam.org/Bahasa/RencanaBF/mnjkomkit_bi.html
-zero														kompas	200403_20_a42_913173.txt
-oleh		1					1		0	0				web	http://3petuk.blog.com/
-oleh		1					1		0	0				web	http://akhmadfitriansyah.wordpress.com/
-oleh														kompas	200403_06_a15_895150.txt
-zero	act.cyc	1	0	1	1	1	1	0	0	0	0	1	1	web	http://ainamulyana.blogspot.com/2011/06/contoh-laporan-penelitian-tindakan_08.html
-zero														kompas	200402_27_a46_880324.txt
-zero														web	http://akuadauntukandasemua.blogspot.com/
-oleh		1					1		0	0				web	http://adehenry.wordpress.com/
-zero														kompas	200403_03_a77_888200.txt
-zero														kompas	200403_01_a73_884238.txt
-zero														web	http://aepsaepullohdarusmanwiati.blogspot.com/2010/03/pertanyaan-ass.html
-zero														web	http://al-akbar.blogspot.com/
-zero														kompas	200401_05_a71_781945.txt
-zero														kompas	200401_19_a39_808346.txt
-zero														kompas	200402_24_a15_872754.txt
-zero														web	http://arono.wordpress.com/
-oleh														web	http://afifnugraha.wordpress.com/page/2/
-oleh														web	http://apanyamakassar.blogspot.com/
-zero														kompas	200402_02_a38_832449.txt
-oleh														web	http://antoni-mitralaw.blogspot.com/
-zero		1					1		0	0				web	http://abumie.wordpress.com/2007/12/05/ayat-ayat-cinta/
-oleh		1					1		0	0				web	http://abaz.tblog.com/
-oleh														kompas	200403_23_a77_925524.txt
-oleh														web	http://arloji.orangkomputer.com/?paged=4
-oleh														web	http://aprillins.com/2009/315/cerita-tentang-istri-jaksa-yang-selingkuh-dengan-supir/
-oleh		1					1		0	0				web	http://achsannh.blogspot.com/
-zero														kompas	200402_15_a77_858826.txt
-zero														kompas	200403_23_a77_925517.txt
-zero		1					1		0	0				web	http://ace-informasibudaya.blogspot.com/2010/01/kerusuhan-sambas.html
-zero		1					1		0	0				web	http://adebachtiar.multiply.com/journal?=80=1=%2Fjournal
-zero														kompas	200402_05_a74_839299.txt
-oleh														web	http://akbidylpp.ac.id/tentang-kami/standard-akbid-ylpp.html
-zero														web	http://annascom.blogspot.com/
-zero														kompas	200402_12_a29_854788.txt
-zero														kompas	200403_26_a75_933951.txt
-oleh		1					1		0	0				web	http://artikel-manajemen.blogspot.com/2009_06_01_archive.html
-zero														web	http://alutsista.blogspot.com/2010_04_01_archive.html
+	zero	Kinesis	telicity	durative	affirmation	mode	P_affectedness	P_definiteness	P_animacy	P_concreteness	A_definite	A_animacy	A_number	clause	corpus
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	2	relative	kompas
+dibuat	oleh	1	1	1	1	1	1	1	0	0	1	1	3	relative	web
+dilakukan	zero	1	1	0	1	1	0	0	0	0	0	0	3	relative	kompas
+digunakan	zero	1	0	0	1	0	0	1	0	0	0	0	3	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	kompas
+diberikan	oleh	1	1	0	1	1	1	0	0	1	1	1	6	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	1	relative	kompas
+dilakukan	zero	1	1	0	1	1	0	1	0	0	1	0	10	relative	kompas
+dilakukan	zero	1	1	0	1	1	0	0	0	0	1	1	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	1	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	9	main	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	0	1	3	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	2	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	2	relative	web
+digunakan	zero	1	0	1	1	1	0	0	0	1	1	0	4	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	1	2	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	0	1	main	web
+dilakukan	oleh	1	1	0	1	1	0	0	0	0	0	1	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	0	2	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	1	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	1	adverbial	kompas
+dikenal	oleh	0	0	1	1	1	0	1	1	1	0	1	2	relative	kompas
+digunakan	oleh	1	0	1	1	1	0	1	1	1	0	0	3	main	kompas
+digunakan	zero	1	1	1	0	1	0	0	0	1	0	1	3	main	kompas
+dibuat	oleh	1	1	0	1	1	1	0	0	0	0	1	2	relative	web
+diberikan	zero	1	1	1	1	1	1	0	0	0	1	0	1	relative	kompas
+diberikan	oleh	1	1	1	1	1	1	1	0	0	0	1	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	2	relative	kompas
+diberikan	oleh	1	1	1	1	1	0	0	0	0	1	0	1	main	kompas
+digunakan	zero	1	0	1	1	1	0	0	0	0	0	1	2	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	1	6	relative	web
+diberikan	oleh	1	1	1	1	1	1	0	0	0	1	0	4	relative	web
+dibuat	oleh	1	1	1	1	1	1	0	0	0	0	0	2	relative	web
+dilakukan	oleh	1	1	0	1	1	0	1	0	0	1	1	3	main	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	1	3	relative	web
+diberikan	oleh	1	1	0	1	1	1	0	0	1	0	0	1	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	0	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	1	1	0	7	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	4	main	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	1	2	relative	kompas
+disebut	zero	1	1	0	1	1	0	0	0	0	1	1	1	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	0	7	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	2	relative	kompas
+disebut	zero	1	1	1	1	1	0	1	0	0	0	1	2	adverbial	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	7	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	0	3	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	1	relative	web
+digunakan	zero	1	0	0	1	1	0	0	0	1	1	1	1	sub	web
+dikatakan	zero	1	1	1	1	1	0	0	0	0	1	1	5	main	kompas
+dilakukan	oleh	1	0	1	1	1	0	1	0	0	0	1	3	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	1	relative	kompas
+dilakukan	oleh	1	1	1	1	0	0	1	0	0	0	1	4	main	web
+dilakukan	oleh	1	1	0	1	1	0	1	0	0	1	1	5	relative	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	1	3	main	kompas
+dibuat	oleh	1	1	1	1	1	1	1	0	1	1	1	2	main	kompas
+diberikan	zero	1	1	0	1	1	1	0	0	1	1	1	3	relative	kompas
+dilakukan	oleh	1	1	0	1	1	0	1	0	0	1	1	23	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	2	main	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	1	9	main	kompas
+dilakukan	zero	1	1	0	1	1	0	0	0	0	1	1	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	3	relative	kompas
+dikenal	oleh	0	0	1	1	1	0	0	1	1	0	1	2	main	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	2	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	1	2	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	0	2	relative	web
+dikatakan	zero	1	1	1	1	1	0	0	0	1	1	1	1	relative	web
+digunakan	zero	1	0	1	1	1	0	0	0	1	0	1	5	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	1	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	2	relative	kompas
+ditemukan	oleh	1	1	0	1	1	0	1	0	0	1	1	2	main	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	kompas
+diberikan	oleh	1	1	1	1	1	0	0	0	0	0	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	1	adverbial	kompas
+digunakan	zero	1	0	1	1	1	0	0	0	0	1	0	2	relative	kompas
+diberikan	zero	1	1	1	1	1	1	0	0	1	1	1	6	relative	kompas
+digunakan	oleh	1	0	1	1	1	0	1	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	4	relative	kompas
+dikatakan	zero	1	1	1	1	1	0	0	0	0	1	1	2	main	kompas
+dilakukan	oleh	1	1	0	1	1	0	0	0	0	1	1	8	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	1	relative	web
+dibuat	zero	1	1	1	1	1	1	0	0	0	1	0	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	3	main	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	5	relative	kompas
+dikenal	oleh	0	0	1	1	1	0	1	0	1	0	0	2	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	7	main	kompas
+diberikan	oleh	1	1	0	1	1	1	0	0	0	1	0	1	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	6	relative	kompas
+disebut	zero	1	1	1	1	1	0	0	0	0	0	0	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	3	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	3	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	0	2	main	kompas
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	2	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	1	relative	kompas
+diberikan	oleh	1	1	0	1	1	0	0	0	0	0	0	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	0	1	relative	web
+dibuat	zero	1	1	1	1	1	1	1	0	0	0	1	1	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	1	1	relative	web
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	0	2	relative	web
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	0	1	relative	kompas
+dilakukan	oleh	1	0	1	1	0	0	0	0	0	1	1	3	relative	web
+dikatakan	oleh	1	1	1	1	1	0	1	0	0	1	1	2	adverbial	web
+dilakukan	zero	1	0	1	1	1	0	1	0	0	0	0	2	main	web
+diberikan	zero	1	1	0	1	1	0	0	0	0	1	0	4	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	0	1	relative	web
+digunakan	oleh	1	1	1	1	1	0	0	0	1	0	1	4	relative	web
+dilakukan	zero	1	0	1	1	0	0	1	0	0	0	1	4	main	web
+diberikan	zero	1	1	1	1	1	0	1	0	0	1	0	2	sub	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	3	main	kompas
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	1	1	relative	kompas
+dibuat	oleh	1	1	1	1	1	1	0	0	0	1	0	1	relative	web
+diberikan	oleh	1	1	1	1	1	0	1	0	0	1	1	6	main	kompas
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	1	adverbial	web
+dilakukan	zero	1	1	0	1	1	0	1	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	3	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	1	relative	web
+dibuat	zero	1	1	1	1	1	1	1	0	0	1	1	1	relative	kompas
+dilakukan	oleh	1	1	0	1	1	0	1	0	0	1	1	2	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	1	3	relative	web
+diberikan	zero	1	1	1	1	0	0	0	0	0	0	0	2	relative	web
+digunakan	oleh	1	1	1	1	1	0	0	0	0	0	1	2	relative	web
+dilakukan	oleh	1	1	0	1	1	0	0	0	0	1	0	3	relative	web
+ditemukan	zero	1	1	0	1	1	0	0	0	0	0	1	1	relative	web
+dibuat	zero	1	1	0	1	1	1	0	0	0	1	1	1	relative	kompas
+dilakukan	zero	1	0	1	0	0	0	0	0	0	0	1	1	relative	web
+dikenal	oleh	0	0	1	1	1	0	1	0	0	0	1	4	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	2	relative	web
+dianggap	oleh	0	0	1	1	1	0	1	0	0	1	0	1	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	1	relative	kompas
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	1	1	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	0	2	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	0	1	relative	kompas
+dibuat	oleh	1	1	1	1	1	1	1	0	1	1	0	8	relative	kompas
+dibuat	oleh	1	1	1	1	1	1	0	0	0	1	1	3	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	1	adverbial	kompas
+dikatakan	zero	1	1	0	1	1	0	0	0	0	1	1	1	relative	web
+disebut	oleh	1	1	1	1	1	1	1	0	0	1	1	3	relative	kompas
+diberikan	oleh	1	0	1	1	1	1	0	0	0	1	1	7	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	1	relative	web
+dibuat	oleh	1	1	1	1	1	1	0	0	0	0	0	2	main	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	10	main	kompas
+diberikan	oleh	1	1	1	1	1	1	0	0	1	1	1	1	relative	web
+dilakukan	zero	1	0	1	1	1	0	1	0	0	0	1	1	sub	kompas
+dilakukan	zero	1	0	0	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	0	2	relative	kompas
+diberikan	zero	1	1	1	1	1	0	1	0	0	0	0	1	main	kompas
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	1	1	4	main	web
+dibuat	oleh	1	1	1	1	1	1	0	0	0	1	0	3	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	0	1	relative	kompas
+diberikan	zero	1	1	0	1	1	0	0	0	1	1	0	2	relative	kompas
+dibuat	zero	1	1	0	1	1	1	0	0	0	1	1	1	relative	web
+dibuat	oleh	1	1	1	1	1	1	0	0	0	1	0	3	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	0	0	1	0	0	0	0	1	relative	kompas
+diberikan	oleh	1	1	1	1	1	0	0	0	0	1	1	1	relative	web
+digunakan	oleh	1	0	1	1	1	0	0	0	0	0	1	1	adverbial	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	5	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	1	sub	kompas
+diberikan	zero	1	1	1	1	1	1	0	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	0	1	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	1	5	relative	web
+diberikan	oleh	1	1	1	1	1	0	0	0	0	0	1	8	main	web
+dianggap	zero	0	0	1	1	1	0	1	0	0	0	0	1	relative	web
+diberikan	oleh	1	1	1	1	1	0	0	0	0	1	1	2	main	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	1	2	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	1	relative	web
+dibuat	zero	1	1	1	1	1	1	0	0	0	1	0	3	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	1	relative	kompas
+diperlukan	oleh	0	0	1	1	1	0	1	0	0	0	1	1	main	web
+dilakukan	zero	1	1	0	1	1	0	0	0	0	1	1	4	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	8	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	1	relative	kompas
+dilakukan	oleh	1	1	1	1	0	0	0	0	0	0	0	12	main	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	2	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	1	2	relative	web
+dilakukan	oleh	1	0	1	1	1	0	1	0	0	0	1	5	main	web
+diberikan	zero	1	1	0	1	1	0	0	0	0	0	1	1	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	2	main	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	2	relative	web
+dilakukan	zero	1	0	1	1	0	0	0	0	0	0	1	1	relative	kompas
+ditemukan	zero	1	1	0	1	1	0	0	0	1	0	1	1	relative	kompas
+digunakan	oleh	1	0	1	1	1	0	1	0	0	0	1	4	main	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	2	main	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	6	main	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	4	sub	web
+dilakukan	zero	1	0	0	1	1	0	1	0	0	1	1	1	relative	kompas
+disebut	oleh	1	1	0	1	1	0	1	0	0	1	1	3	main	web
+diberikan	oleh	1	1	1	1	1	0	0	0	0	0	0	4	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	0	1	2	relative	kompas
+dilakukan	zero	1	1	0	1	1	0	1	0	0	0	1	4	sub	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	7	relative	kompas
+digunakan	oleh	0	0	1	1	1	0	0	0	0	0	1	3	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	3	relative	kompas
+diberikan	oleh	1	1	1	1	1	0	0	0	0	0	1	2	relative	web
+digunakan	oleh	1	0	1	1	1	0	1	0	0	0	0	2	main	web
+dilakukan	oleh	1	0	1	1	1	0	1	0	0	1	0	2	main	web
+dikenal	oleh	0	0	1	0	1	0	1	0	0	0	0	2	relative	web
+dikatakan	zero	1	1	0	1	1	0	1	0	0	1	1	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	3	main	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	4	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	1	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	1	2	relative	web
+dikatakan	zero	1	1	1	1	1	1	1	1	1	1	1	4	relative	web
+digunakan	zero	1	0	1	1	1	0	1	0	0	1	0	7	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	1	0	0	0	1	2	main	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	1	4	adverbial	web
+dilakukan	oleh	1	0	1	0	1	0	1	0	0	1	0	3	main	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	2	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	7	relative	kompas
+digunakan	zero	1	0	1	1	1	0	1	0	0	1	1	1	relative	kompas
+dikatakan	zero	1	1	1	1	1	1	1	0	0	1	1	3	main	kompas
+dikenal	zero	0	0	1	0	1	0	0	0	0	0	0	1	relative	kompas
+dilakukan	oleh	1	0	1	1	0	0	0	0	0	1	0	1	relative	kompas
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	9	main	kompas
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	1	1	1	main	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	11	main	kompas
+dilakukan	oleh	1	1	1	1	0	0	0	0	0	0	1	6	main	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	web
+digunakan	oleh	1	0	1	0	1	0	1	0	0	0	1	1	main	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	3	relative	kompas
+digunakan	zero	1	0	1	1	1	0	0	0	0	0	1	1	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	1	main	kompas
+diberikan	zero	1	1	1	1	1	0	0	0	0	1	1	1	relative	kompas
+diberikan	zero	1	1	0	1	1	0	0	0	0	1	0	2	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	0	2	relative	web
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	kompas
+ditemukan	oleh	1	1	0	1	1	0	1	0	0	1	1	1	main	web
+diperlukan	oleh	0	0	1	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	1	1	main	web
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	1	1	adverbial	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	4	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	1	main	kompas
+dibuat	oleh	1	1	1	1	1	1	0	0	0	1	1	1	relative	web
+disebut	zero	1	1	1	1	1	0	1	0	0	0	1	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	5	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	kompas
+dianggap	zero	0	0	1	1	1	0	0	0	0	0	1	4	relative	kompas
+dilakukan	oleh	1	0	1	0	1	0	0	0	0	1	0	2	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	5	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	3	relative	web
+dilakukan	oleh	1	1	0	1	1	0	1	0	0	0	1	2	main	kompas
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	2	main	kompas
+diberikan	oleh	1	1	0	1	1	0	0	0	1	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	1	relative	kompas
+dikatakan	oleh	1	1	1	1	1	0	1	0	0	0	1	4	main	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	0	1	2	adverbial	kompas
+dilakukan	oleh	1	0	1	1	0	0	0	0	0	1	0	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	5	main	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	1	relative	web
+dikatakan	oleh	1	1	1	1	1	0	1	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	2	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	1	1	0	1	relative	kompas
+dikenal	zero	0	0	1	1	1	0	0	0	1	0	0	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	2	relative	web
+dilakukan	oleh	1	1	0	1	1	0	1	0	0	1	1	1	main	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	3	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	2	relative	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	0	3	sub	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	1	8	main	kompas
+digunakan	zero	1	0	1	1	1	1	0	0	1	1	0	2	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	3	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	3	relative	kompas
+dilakukan	oleh	1	1	1	0	0	0	0	0	0	0	1	2	relative	web
+digunakan	oleh	1	0	1	1	1	0	0	0	0	0	1	1	relative	web
+digunakan	oleh	1	0	1	1	1	0	1	0	1	0	1	2	relative	web
+dilakukan	zero	1	0	1	1	0	0	1	0	0	0	1	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	0	1	8	main	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	1	relative	web
+digunakan	oleh	1	1	0	1	1	0	1	0	1	0	1	1	adverbial	web
+dibuat	zero	1	1	0	1	1	1	0	0	0	1	0	1	relative	web
+diberikan	oleh	1	1	0	1	1	1	0	0	0	0	1	2	relative	web
+dilakukan	zero	1	0	1	0	1	0	0	0	0	0	1	4	main	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	7	main	kompas
+diberikan	oleh	1	1	1	1	1	0	0	0	0	0	1	1	relative	web
+diberikan	oleh	1	1	0	1	1	0	0	0	0	0	0	2	relative	web
+dilakukan	zero	1	0	1	1	0	0	0	0	0	0	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	14	relative	kompas
+dilakukan	zero	1	1	1	1	0	0	0	0	0	0	0	3	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	2	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	5	main	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	0	1	relative	web
+digunakan	oleh	1	1	1	1	1	0	0	0	1	0	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	6	relative	web
+dikenal	oleh	0	0	1	1	1	0	1	0	0	0	1	6	main	kompas
+disebut	zero	1	1	1	1	1	0	1	0	0	1	1	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	1	relative	kompas
+dilakukan	zero	1	1	0	1	1	0	0	0	0	0	0	1	sub	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	1	relative	web
+diberikan	zero	1	1	1	1	1	0	0	0	0	1	1	1	relative	web
+ditemukan	oleh	1	1	0	1	1	0	0	0	0	0	1	2	relative	web
+diberikan	oleh	1	1	1	1	1	0	1	0	0	1	1	1	sub	web
+dilakukan	oleh	1	1	0	1	1	0	0	0	0	0	1	2	main	web
+digunakan	zero	1	1	1	1	1	0	0	0	0	1	0	5	adverbial	web
+diberikan	oleh	1	1	1	1	1	0	0	0	0	1	1	6	main	kompas
+dibuat	oleh	1	1	1	1	1	1	1	0	1	1	0	7	main	kompas
+diberikan	oleh	1	1	1	1	0	0	0	0	0	0	1	3	relative	web
+digunakan	oleh	1	0	1	1	1	0	0	0	0	0	1	2	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	1	0	1	1	relative	web
+dibuat	oleh	1	1	1	1	1	1	0	0	1	0	0	3	relative	kompas
+diberikan	oleh	1	1	1	1	1	0	0	0	0	1	1	1	main	web
+ditemukan	zero	1	1	0	1	1	0	0	0	0	0	1	5	main	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	7	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	1	relative	kompas
+dikatakan	zero	1	1	1	1	1	0	0	0	0	1	1	6	main	kompas
+dilakukan	oleh	1	0	1	1	1	0	1	0	0	0	1	5	sub	kompas
+diberikan	zero	1	1	0	0	0	0	0	0	0	0	0	2	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	2	relative	web
+diberikan	zero	1	1	1	1	1	0	0	0	0	1	0	2	relative	kompas
+diberikan	zero	1	1	0	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	0	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	0	1	7	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	3	main	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	3	relative	kompas
+dilakukan	oleh	1	1	0	1	1	0	0	0	0	1	0	3	relative	web
+diberikan	zero	1	1	1	1	0	0	0	0	0	0	0	1	main	web
+dibuat	zero	1	1	1	1	1	1	0	0	0	0	1	4	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	1	1	relative	kompas
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	1	relative	web
+dilakukan	oleh	1	0	1	1	0	0	0	0	0	1	1	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	1	1	1	relative	web
+digunakan	zero	1	0	1	1	1	0	1	0	1	1	0	3	sub	kompas
+dilakukan	oleh	0	0	1	1	1	0	1	0	0	0	1	5	relative	web
+dibuat	zero	1	1	0	1	1	1	0	0	0	0	0	0	relative	kompas
+diberikan	oleh	1	1	1	1	1	0	1	0	0	0	1	1	relative	web
+dilakukan	zero	1	0	1	1	1	0	1	0	0	0	1	1	main	kompas
+dibuat	oleh	1	1	1	1	1	1	0	0	1	0	1	3	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	4	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	kompas
+digunakan	oleh	1	0	1	1	1	0	0	0	0	1	0	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	2	man	web
+digunakan	zero	1	0	1	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	1	main	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	0	1	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	0	2	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	2	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	1	2	relative	web
+dilakukan	zero	1	1	0	1	1	0	1	0	0	1	0	1	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	1	relative	web
+dilakukan	zero	1	0	1	1	1	0	1	0	0	0	1	2	sub	kompas
+dibuat	zero	1	1	0	1	1	1	0	0	0	0	1	2	relative	kompas
+digunakan	zero	1	1	0	1	1	0	1	0	0	1	1	1	sub	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	3	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	2	relative	web
+digunakan	oleh	0	0	1	1	1	0	0	0	1	1	1	4	relative	web
+dilakukan	oleh	1	1	0	1	1	0	0	0	0	0	1	4	relative	web
+digunakan	oleh	1	0	1	1	1	0	0	0	1	0	1	5	sub	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	3	relative	kompas
+diberikan	zero	1	1	0	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	0	0	0	0	0	1	1	2	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	2	main	kompas
+dilakukan	zero	1	1	0	1	1	0	0	0	0	1	0	2	relative	kompas
+digunakan	oleh	1	1	1	1	0	0	0	0	0	0	0	2	main	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	1	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	1	5	main	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	1	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	0	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	1	main	kompas
+ditemukan	oleh	1	1	0	1	1	0	1	0	1	1	1	2	main	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	0	7	main	kompas
+digunakan	zero	1	0	0	1	1	0	0	0	1	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	4	relative	kompas
+dilakukan	zero	1	1	0	1	1	0	1	0	0	0	1	2	main	kompas
+dilakukan	oleh	1	1	1	1	0	0	1	0	0	1	0	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	1	relative	web
+diberikan	zero	1	1	1	1	1	1	0	0	0	0	0	1	relative	kompas
+dibuat	oleh	1	1	1	1	1	1	0	0	0	0	0	8	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	0	1	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	0	2	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	0	1	relative	web
+digunakan	oleh	1	0	1	1	1	0	0	1	1	0	0	4	relative	web
+dilakukan	zero	1	1	0	1	1	0	0	0	0	1	1	2	relative	web
+dilakukan	zero	1	1	0	1	1	0	1	0	0	0	1	1	main	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	2	main	kompas
+dilakukan	zero	1	0	1	1	0	0	0	0	0	0	1	5	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	4	adverbial	web
+digunakan	zero	1	0	1	1	1	0	0	0	0	0	1	1	relative	web
+diberikan	oleh	1	1	1	1	1	0	0	0	0	1	0	5	relative	kompas
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	1	main	kompas
+dibuat	zero	1	1	1	1	1	1	0	0	0	0	0	1	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	2	main	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	1	2	main	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	1	1	1	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	7	relative	kompas
+digunakan	oleh	1	0	1	1	1	0	1	0	0	0	0	2	sub	web
+diberikan	oleh	1	1	0	1	1	0	1	0	0	0	1	3	main	web
+diberikan	oleh	1	1	0	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	0	5	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	1	1	main	web
+diberikan	zero	1	1	1	1	1	0	0	0	0	1	0	1	main	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	1	sub	kompas
+dikatakan	zero	1	1	0	1	1	1	0	0	0	1	1	1	relative	web
+dibuat	zero	1	1	1	1	1	1	0	0	0	1	0	9	relative	web
+diperlukan	oleh	0	0	1	1	1	0	0	0	0	0	0	5	main	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	0	1	4	adverbial	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	0	1	sub	kompas
+diberikan	zero	1	1	1	1	1	0	0	0	0	1	0	3	relative	kompas
+dibuat	oleh	1	1	1	1	1	1	0	0	1	0	1	2	relative	web
+dilakukan	zero	1	1	0	1	1	0	0	0	0	1	1	3	adverbial	web
+diperlukan	zero	0	0	1	1	1	0	0	0	0	1	0	1	relative	web
+disebut	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	2	relative	web
+ditemukan	zero	1	1	0	1	1	0	1	0	0	1	0	4	main	kompas
+ditemukan	zero	1	1	0	1	1	0	0	0	0	0	1	1	relative	kompas
+dikatakan	oleh	1	1	1	1	1	0	1	0	0	1	1	3	relative	kompas
+digunakan	zero	1	0	1	1	1	0	0	0	0	0	0	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	3	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	2	relative	kompas
+ditemukan	oleh	1	1	0	1	1	0	1	0	1	0	1	1	main	web
+dilakukan	zero	1	1	0	1	0	0	0	0	0	1	1	1	relative	web
+dianggap	oleh	0	0	1	1	1	0	1	0	0	0	1	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	2	relative	web
+digunakan	oleh	1	0	1	1	1	0	0	0	1	0	1	5	main	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	2	relative	kompas
+dilakukan	oleh	1	1	1	0	0	0	0	0	0	0	1	5	relative	web
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	web
+dilakukan	oleh	1	1	0	1	1	0	0	0	0	0	1	5	main	web
+dikatakan	zero	1	1	0	1	1	0	0	0	0	1	0	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	0	0	relative	web
+dibuat	zero	1	1	1	1	1	1	1	0	0	1	0	5	relative	kompas
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	2	relative	kompas
+dibuat	zero	1	1	0	1	1	1	0	0	0	1	0	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	2	relative	kompas
+diberikan	zero	1	1	1	1	1	0	0	0	0	1	0	6	relative	kompas
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	9	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	1	1	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	4	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	web
+dibuat	zero	1	1	1	1	1	1	0	0	0	1	1	2	relative	web
+dibuat	oleh	1	1	1	1	1	1	0	0	1	1	0	4	relative	kompas
+digunakan	oleh	1	1	1	1	1	1	0	0	1	0	1	5	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	3	main	kompas
+digunakan	oleh	1	0	1	1	1	0	0	0	1	0	1	1	main	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	1	relative	kompas
+ditemukan	zero	1	1	0	1	1	0	0	0	0	0	1	1	relative	kompas
+digunakan	zero	1	1	1	1	1	1	0	0	1	1	1	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	4	relative	kompas
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	1	1	relative	web
+ditemukan	zero	1	1	0	1	1	0	1	0	1	0	1	4	relative	kompas
+dibuat	zero	1	1	1	1	1	1	0	0	1	0	1	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	3	relative	kompas
+dibuat	zero	1	1	0	1	1	0	0	0	0	0	0	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	3	relative	kompas
+dikenal	zero	0	0	1	1	1	0	0	1	1	0	1	3	relative	web
+dilakukan	oleh	1	0	1	0	1	0	0	0	0	0	0	1	main	kompas
+diberikan	oleh	1	1	1	1	1	0	0	0	0	0	0	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	0	1	2	relative	web
+dilakukan	oleh	1	0	1	1	0	0	0	0	0	1	0	4	main	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	1	7	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	0	0	2	main	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	1	1	6	relative	web
+dilakukan	zero	1	0	1	1	0	0	0	0	0	0	0	2	relative	kompas
+digunakan	oleh	1	1	1	1	1	1	0	0	1	0	1	1	relative	web
+diberikan	oleh	1	1	0	1	1	0	0	0	0	1	1	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	1	relative	kompas
+digunakan	oleh	1	0	1	1	1	0	1	0	0	1	0	1	relative	kompas
+diperlukan	zero	0	0	1	1	1	0	1	0	0	0	1	9	main	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	3	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	1	main	web
+digunakan	oleh	1	1	1	1	1	1	0	0	1	0	1	1	main	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	0	2	main	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	0	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	1	relative	kompas
+dilakukan	zero	1	1	1	0	0	0	0	0	0	0	1	1	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	1	4	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	0	1	relative	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	0	3	relative	web
+dikatakan	zero	1	1	1	1	1	0	1	0	0	1	1	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	1	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	0	1	2	relative	web
+dilakukan	oleh	1	1	0	1	1	0	0	0	0	0	0	3	relative	web
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	0	0	1	sub	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	1	7	main	web
+dilakukan	oleh	0	0	1	1	1	0	1	0	0	1	1	5	main	web
+dilakukan	oleh	1	1	0	1	0	0	1	0	0	0	1	1	main	web
+diberikan	oleh	1	1	0	1	1	0	0	0	0	1	1	6	main	kompas
+dilakukan	zero	1	1	0	1	1	0	0	0	0	1	0	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	1	relative	kompas
+dilakukan	zero	1	1	0	1	1	0	0	0	0	1	0	1	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	1	2	main	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	0	2	relative	web
+dibuat	zero	1	1	1	1	1	1	1	0	0	1	0	2	main	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	1	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	0	2	relative	web
+diberikan	zero	1	1	0	1	1	0	0	0	1	1	1	1	relative	web
+dilakukan	zero	1	1	0	1	0	0	0	0	0	0	1	1	relative	web
+dibuat	zero	1	1	0	1	1	1	0	0	0	1	0	1	relative	kompas
+diberikan	oleh	1	1	0	1	1	0	1	0	1	1	1	3	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	0	1	relative	web
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	1	1	relative	kompas
+digunakan	zero	1	0	1	1	1	0	0	0	1	1	0	1	e	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	5	relative	kompas
+digunakan	oleh	1	0	1	1	1	0	0	0	0	0	1	4	sub	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	0	4	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	0	5	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	1	0	0	1	0	1	relative	kompas
+dikatakan	zero	1	1	0	1	1	0	0	0	0	1	1	2	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	0	2	adverbial	web
+digunakan	zero	1	0	1	1	1	0	0	0	1	1	0	7	adverbial	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	2	sub	kompas
+dilakukan	zero	1	1	0	1	1	0	1	0	0	1	0	1	relative	web
+diberikan	zero	1	1	0	1	1	0	0	0	1	1	1	1	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	0	3	relative	kompas
+dilakukan	oleh	1	1	0	1	1	0	0	0	0	0	1	7	relative	web
+dilakukan	oleh	1	0	1	1	0	0	0	0	0	0	1	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	0	1	relative	kompas
+dibuat	oleh	1	1	0	1	1	1	1	0	0	0	0	4	relative	web
+digunakan	zero	1	0	1	1	1	0	0	0	1	0	1	1	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	0	1	2	relative	web
+diperlukan	zero	0	0	1	1	1	0	0	0	0	1	0	0	relative	web
+diberikan	oleh	1	0	1	1	1	0	0	0	0	0	0	7	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	1	main	kompas
+dilakukan	zero	1	1	1	1	0	0	0	0	0	0	1	2	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	0	2	relative	kompas
+dilakukan	zero	1	1	1	1	1	0	0	0	0	1	0	2	main	kompas
+diberikan	zero	1	1	1	1	1	0	0	0	0	1	1	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	0	0	0	0	1	2	relative	kompas
+dilakukan	oleh	1	1	1	0	0	0	0	0	0	0	1	2	relative	web
+dilakukan	oleh	1	1	1	0	0	0	0	0	0	0	0	2	relative	web
+dilakukan	oleh	1	0	1	1	1	0	1	0	0	0	1	4	relative	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	0	1	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	1	main	kompas
+dilakukan	oleh	1	1	1	0	1	0	0	0	0	1	0	1	main	kompas
+dibuat	oleh	1	1	1	1	1	0	0	0	1	0	1	14	relative	web
+dilakukan	oleh	1	0	1	1	1	0	1	0	0	1	0	4	main	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	3	relative	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	0	1	3	relative	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	1	relative	kompas
+dibuat	zero	1	1	1	1	1	1	1	0	1	1	0	2	relative	kompas
+disebut	oleh	1	1	1	1	1	0	1	0	0	1	1	2	relative	web
+dilakukan	zero	1	0	1	1	1	0	1	0	0	1	1	1	main	kompas
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	0	2	main	web
+ditemukan	oleh	1	1	0	1	1	0	0	0	0	1	1	2	main	web
+diberikan	oleh	1	1	0	1	1	0	1	0	1	1	1	2	relative	web
+dilakukan	zero	1	1	1	1	1	0	1	0	0	1	1	1	relative	kompas
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	1	0	7	main	kompas
+dikatakan	zero	1	1	1	1	1	0	0	0	0	1	1	11	main	kompas
+diperlukan	oleh	0	0	1	1	1	0	1	0	0	1	1	4	relative	kompas
+disebut	zero	1	1	0	1	1	0	0	0	0	0	0	1	relative	kompas
+dilakukan	oleh	1	1	0	1	1	0	1	0	0	0	0	2	relative	web
+disebut	zero	1	1	1	1	1	0	1	0	0	0	1	1	relative	kompas
+digunakan	zero	1	0	1	1	1	0	1	0	0	1	1	3	main	kompas
+dilakukan	oleh	1	1	1	1	1	0	1	0	0	1	1	2	relative	kompas
+dilakukan	zero	1	1	0	1	0	0	0	0	0	0	1	1	relative	kompas
+diberikan	zero	1	1	1	1	1	0	0	0	0	0	0	2	main	web
+dilakukan	oleh	1	0	1	1	0	0	0	0	0	0	0	1	relative	web
+dilakukan	oleh	1	1	1	1	0	0	0	0	0	0	1	2	main	web
+dilakukan	zero	1	0	1	1	1	0	0	0	0	1	0	4	relative	web
+dilakukan	oleh	1	1	1	1	1	0	0	0	0	1	0	1	relative	web
+dilakukan	zero	1	1	1	1	0	0	0	0	0	0	0	2	relative	kompas
+dilakukan	zero	1	0	1	1	1	0	0	0	0	0	1	1	sub	web
+dilakukan	oleh	1	0	1	1	1	0	0	0	0	1	1	12	relative	web
+digunakan	oleh	1	0	1	1	1	1	0	0	0	0	0	6	relative	web
+dilakukan	oleh	1	1	1	0	1	0	0	0	0	0	1	2	relative	web
+dilakukan	zero	1	1	1	1	1	1	0	0	0	1	0	2	relative	web
+digunakan	oleh	0	0	1	1	1	1	0	0	1	0	0	1	relative	web
+dilakukan	zero	1	1	1	0	1	0	0	0	0	0	0	1	relative	kompas
+dilakukan	zero	1	1	1	1	1	1	1	0	0	1	1	2	main	web
+dilakukan	zero	1	1	1	1	1	1	0	0	0	1	0	1	relative	kompas
+dilakukan	zero	1	0	1	1	1	1	0	0	0	0	1	2	relative	kompas
+dilakukan	oleh	1	1	0	1	0	1	0	0	0	0	0	1	relative	web
+dilakukan	zero	1	1	0	1	1	1	1	0	0	1	1	2	relative	web
+dilakukan	oleh	1	0	1	1	1	1	0	0	0	0	0	1	relative	web
+dilakukan	oleh	1	1	1	1	1	1	0	0	0	1	1	3	relative	web
+dilakukan	oleh	1	1	1	1	1	1	0	0	0	1	1	1	relative	kompas
+dilakukan	zero	1	0	1	1	1	1	0	0	0	1	0	1	main	kompas
+dilakukan	oleh	1	1	1	1	1	1	0	0	0	1	1	5	relative	web
+dilakukan	oleh	1	1	1	1	1	1	0	0	0	1	0	6	main	kompas
+dilakukan	zero	1	1	1	1	1	1	0	0	0	1	0	3	relative	web
+dilakukan	oleh	1	1	1	1	1	1	0	0	0	0	0	1	relative	web
+dikenal	oleh	0	0	1	1	1	0	0	0	0	0	1	4	relative	web
+dilakukan	zero	1	1	1	1	1	1	1	0	0	1	1	12	relative	kompas
+dilakukan	zero	1	1	1	1	1	1	1	1	1	1	1	7	sub	kompas
+dilakukan	zero	1	0	1	1	0	1	1	0	0	0	1	1	relative	kompas
+diberikan	oleh	1	1	0	1	1	0	0	0	1	1	0	1	relative	web
+dilakukan	oleh	1	0	1	1	1	1	0	0	0	0	1	2	relative	web
+dilakukan	oleh	1	1	0	1	1	1	1	0	0	0	1	1	relative	web
+diberikan	oleh	1	1	1	1	1	0	0	0	0	1	1	1	relative	web
+digunakan	zero	1	0	1	1	1	1	0	0	1	0	1	1	relative	kompas
+diberikan	oleh	1	1	0	1	1	0	0	0	0	1	0	5	relative	kompas
+dilakukan	zero	1	1	1	1	1	1	0	0	0	0	1	2	relative	web
+digunakan	oleh	1	0	1	1	1	1	1	0	0	0	0	1	rmain	kompas
+dilakukan	oleh	1	1	0	1	1	1	0	0	0	0	1	4	relative	web
+dilakukan	zero	1	0	1	1	1	1	0	0	0	1	0	1	relative	kompas
+dilakukan	oleh	1	0	1	0	1	1	1	0	0	0	1	3	main	web
+dilakukan	zero	1	1	1	1	0	1	1	0	0	0	1	1	sub	web
+dilakukan	zero	1	0	1	1	1	1	0	0	0	0	1	1	relative	web
